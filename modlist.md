@@ -3,6 +3,13 @@
 The red star ($${\color{red}*}$$) indicates it's just added.
 
 ## /create
+### Information
+**Minecraft Version:** 1.20.1 <br>
+**Software:** Forge <br>
+**Software Version:** 47.3.22 / 47.3.12 <br> 
+<sup>*Last updated at `29/12/2024 9:19PM (GMT+8)`*</sup>
+
+### Mods:
 - Ambient Sounds (5.2.22)
 - Bad Optimizations (2.2.1)
 - Clumps (12.0.0.4)
@@ -72,3 +79,4 @@ The red star ($${\color{red}*}$$) indicates it's just added.
 - Spark (1.10.53)
 - Starlight (1.1.2)
 - $${\color{red}*}$$ Supplementaries (3.1.10)
+- $${\color{red}*}$$ Amendments (1.2.14)
