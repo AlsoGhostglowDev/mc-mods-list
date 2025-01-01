@@ -7,7 +7,7 @@ The red star ($${\color{red}*}$$) indicates it's just added.
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Forge <br>
 **Software Version:** 47.3.22 / 47.3.12 <br> 
-<sup>*Last updated at `29/12/2024 9:19PM (GMT+8)`*</sup>
+<sup>*Last updated at `29/12/2024 8:41 (GMT+8)`*</sup>
 
 ### Mods:
 - [Ambient Sounds (5.2.22)](https://cdn.modrinth.com/data/fM515JnW/versions/UhavHRSW/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar)
