@@ -1,13 +1,13 @@
 # Mods List
 ### Information
-The red star ($${\color{red}*}$$) indicates it's just added.
+The red star ($${\color{red}*}$$) indicates it's just been added recently.
 
 ## /create
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Forge <br>
 **Software Version:** 47.3.22 / 47.3.12 <br> 
-<sup>*Last updated at `29/12/2024 8:41 (GMT+8)`*</sup>
+<sup>*Last updated at `6/1/2024 22:05 (GMT+8)`*</sup>
 
 ### Mods:
 - [Ambient Sounds (5.2.22)](https://cdn.modrinth.com/data/fM515JnW/versions/UhavHRSW/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar)
@@ -67,7 +67,7 @@ The red star ($${\color{red}*}$$) indicates it's just added.
 - [Memory Leak Fix (1.1.5)](https://cdn.modrinth.com/data/NRjRiSSD/versions/3w0IxNtk/memoryleakfix-forge-1.17%2B-1.1.5.jar)
 - [Midnight Lib (1.4.2)](https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar)
 - [ModernFix (5.18.1)](https://cdn.modrinth.com/data/nmDcB62a/versions/JCb26GJk/modernfix-forge-5.18.1%2Bmc1.20.1.jar)
-- $${\color{red}*}$$ [Moonlight Lib (2.13.44)](https://cdn.modrinth.com/data/twkfQtEc/versions/6eGurK5k/moonlight-1.20-2.13.44-forge.jar)
+- [Moonlight Lib (2.13.44)](https://cdn.modrinth.com/data/twkfQtEc/versions/6eGurK5k/moonlight-1.20-2.13.44-forge.jar)
 - [Moog's Voyager Structures / MVS (4.1.2)](https://cdn.modrinth.com/data/OQAgZMH1/versions/iYOyd0Bu/mvs-4.1.2-1.20-forge.jar)
 - [Naturalist (4.0.3)](https://cdn.modrinth.com/data/F8BQNPWX/versions/fapHaClR/naturalist-forge-4.0.3-1.20.1.jar)
 - [Noisium (2.3.0)](https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar)
@@ -78,5 +78,7 @@ The red star ($${\color{red}*}$$) indicates it's just added.
 - [Sophisticated Core (1.0.1.809)](https://cdn.modrinth.com/data/nmoqTijg/versions/8L0wSqzt/sophisticatedcore-1.20.1-1.0.1.809.jar)
 - [Spark (1.10.53)](https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar)
 - [Starlight (1.1.2)](https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar)
-- $${\color{red}*}$$ [Supplementaries (3.1.10)](https://cdn.modrinth.com/data/fFEIiSDQ/versions/HcdcLvdS/supplementaries-1.20-3.1.10.jar)
-- $${\color{red}*}$$ [Amendments (1.2.14)](https://cdn.modrinth.com/data/6iTJugQR/versions/1g60gHDB/amendments-1.20-1.2.14.jar)
+- [Supplementaries (3.1.10)](https://cdn.modrinth.com/data/fFEIiSDQ/versions/HcdcLvdS/supplementaries-1.20-3.1.10.jar)
+- [Amendments (1.2.14)](https://cdn.modrinth.com/data/6iTJugQR/versions/1g60gHDB/amendments-1.20-1.2.14.jar)
+- $${\color{red}*}$$ [Dis-enchanting Table (3.1.0)](https://cdn.modrinth.com/data/9BgYgXE4/versions/rF2W8xAc/disenchanting_table-merged-1.20.1-3.1.0.jar)
+- $${\color{red}*}$$ [MonoLib (1.4.1)](https://cdn.modrinth.com/data/9leXt4A5/versions/XzmhSfq6/monolib-forge-1.20.1-1.4.1.jar)
