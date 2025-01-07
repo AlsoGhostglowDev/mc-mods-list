@@ -82,4 +82,4 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [Amendments (1.2.14)](https://cdn.modrinth.com/data/6iTJugQR/versions/1g60gHDB/amendments-1.20-1.2.14.jar)
 - $${\color{red}*}$$ [Dis-enchanting Table (3.1.0)](https://cdn.modrinth.com/data/9BgYgXE4/versions/rF2W8xAc/disenchanting_table-merged-1.20.1-3.1.0.jar)
 - $${\color{red}*}$$ [MonoLib (1.4.1)](https://cdn.modrinth.com/data/9leXt4A5/versions/XzmhSfq6/monolib-forge-1.20.1-1.4.1.jar)
-- $${\color{red}*}$$ [Create: Power Loader](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar)
+- $${\color{red}*}$$ [Create: Power Loader (1.5.0)](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar)
