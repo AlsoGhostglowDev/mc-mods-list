@@ -7,7 +7,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Forge <br>
 **Software Version:** 47.3.22 / 47.3.12 <br> 
-<sup>*Last updated at `8/1/2024 22:21 (GMT+8)`*</sup>
+<sup>*Last updated at `8/1/2024 22:33 (GMT+8)`*</sup>
 
 ### Mods:
 - [Ambient Sounds (5.2.22)](https://cdn.modrinth.com/data/fM515JnW/versions/UhavHRSW/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar)
@@ -74,7 +74,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [Saturn (0.1.3)](https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar)
 - [Shulker Box Tooltip (4.0.4)](https://cdn.modrinth.com/data/2M01OLQq/versions/QMp2SF1u/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar)
 - [Smooth Boot: Reloaded (0.0.4)](https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar)
-- [Sophisticated Backpacks (3.20.17.1150)](https://cdn.modrinth.com/data/TyCTlI4b/versions/zkb0vOdU/sophisticatedbackpacks-1.20.1-3.20.17.1150.jar)
+- $${\color{red}* [UPDATED]}$$ [Sophisticated Backpacks (3.21.2.1163)](https://cdn.modrinth.com/data/TyCTlI4b/versions/eM4nJ65h/sophisticatedbackpacks-1.20.1-3.21.2.1163.jar)
 - $${\color{red}* [UPDATED]}$$ [Sophisticated Core (1.0.8.828)](https://cdn.modrinth.com/data/nmoqTijg/versions/kYddH9dA/sophisticatedcore-1.20.1-1.0.8.828.jar)
 - [Spark (1.10.53)](https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar)
 - [Starlight (1.1.2)](https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar)
