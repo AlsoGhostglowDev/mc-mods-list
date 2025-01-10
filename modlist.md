@@ -9,7 +9,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Fabric <br>
 **Software Version:** 0.16.9 <br> 
-<sup>*Last updated at `10/1/2024 2:20 (GMT+8)`*</sup>
+<sup>*Last updated at `10/1/2024 3:00 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -20,7 +20,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**AppleSkin** (2.5.1)](https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar)
 - [**Architectury API** (9.2.14)](https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar)
 - [**Cloth Config API** (11.1.136)](https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar)
-- [**Create** (0.5.1.j Patch 3)](https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar)
+- [**Create** (0.5.1.f Patch 1)](https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar)
 - [**Create: Dreams & Desires** (Fabric 0.1d ; 0.2c-pb)](https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar)
 - [**Create: New Age** (1.1.2)](https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar)
 - [**Create: Structures** (0.1.1)](https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar)
@@ -39,6 +39,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Create: Steam n' Rails** (1.6.9)](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
 - [**Create: Numismatics** (1.0.10)](https://cdn.modrinth.com/data/Jdbbtt0i/versions/TYxoB2MX/CreateNumismatics-1.0.10%2Bfabric-mc1.20.1.jar)
 - [**Create: Crafts & Additions** (1.2.4)](https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar)
+- [**Create: Storage** (0.2.0)](https://cdn.modrinth.com/data/68AG9cQg/versions/SaBfrKba/fxntstorage-0.20-1.20.1-FABRIC%2B1.20.1.jar)
 - [**CTOV - Create: Structures** (1.0)](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar)
 - [**ChoiceTheorem's Overhauled Village** (3.4.10)](https://cdn.modrinth.com/data/fgmhI8kH/versions/tpKHcPzx/%5Bfabric%5Dctov-3.4.10.jar)
 - [**Lithostitched** (1.4)](https://cdn.modrinth.com/data/XaDC71GB/versions/PxDlrVW2/lithostitched-fabric-1.20.1-1.4.jar)
