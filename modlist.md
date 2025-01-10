@@ -9,7 +9,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Fabric <br>
 **Software Version:** 0.16.9 <br> 
-<sup>*Last updated at `10/1/2024 2:03 (GMT+8)`*</sup>
+<sup>*Last updated at `10/1/2024 2:20 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
