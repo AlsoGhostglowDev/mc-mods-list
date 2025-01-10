@@ -2,6 +2,117 @@
 ### Information
 The red star ($${\color{red}*}$$) indicates it's just been added recently.
 
+---
+
+## /create-fabric
+### Information
+**Minecraft Version:** 1.20.1 <br>
+**Software:** Fabric <br>
+**Software Version:** 0.16.9 <br> 
+<sup>*Last updated at `10/1/2024 1:50 (GMT+8)`*</sup>
+
+### Mods:
+- [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
+- [**Fabric Language Kotlin** (1.13.0 - Kotlin 2.1.0)](https://cdn.modrinth.com/data/Ha28R6CL/versions/csX9r2wS/fabric-language-kotlin-1.13.0%2Bkotlin.2.1.0.jar) <br><br>
+- [**Amendments** (1.2.14)](https://cdn.modrinth.com/data/6iTJugQR/versions/fpkXhc5c/amendments-1.20-1.2.14-fabric.jar)
+- [**Moonlight Lib** (2.13.46)](https://cdn.modrinth.com/data/twkfQtEc/versions/uU2JWh54/moonlight-1.20-2.13.47-fabric.jar)
+- [**Another Furniture** (3.0.1)](https://cdn.modrinth.com/data/ulloLmqG/versions/YKKY0UDo/another_furniture-fabric-1.20.1-3.0.1.jar)
+- [**AppleSkin** (2.5.1)](https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar)
+- [**Architectury API** (9.2.14)](https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar)
+- [**Cloth Config API** (11.1.136)](https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar)
+- [**Create** (0.5.1.j Patch 3)](https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631%2Bmc1.20.1.jar)
+- [**Create: Dreams & Desires** (Fabric 0.1d ; 0.2c-pb)](https://cdn.modrinth.com/data/JmybsfWs/versions/Knv9sBsR/create_dd-0.1d.jar)
+- [**Create: New Age** (1.1.2)](https://cdn.modrinth.com/data/FTeXqI9v/versions/rk63oafd/create-new-age-fabric-1.20.1-1.1.2.jar)
+- [**Create: Structures** (0.1.1)](https://cdn.modrinth.com/data/IAnP4np7/versions/nqsTHZwx/create-structures-0.1.1-1.20.1-FABRIC.jar)
+- [**Create: Slice & Dice** (3.3.1)](https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar)
+- [**Create: Connected** (0.7.4h)](https://cdn.modrinth.com/data/QtkeMX9L/versions/S7xwyDWA/create_connected-0.7.4-mc1.20.1%2BFABRIC%2BHOTFIX.jar)
+- [**Create: Enchantment Industry** (1.2.16)](https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar)
+- [**Create: Jetpack** (4.3.0)](https://cdn.modrinth.com/data/UbFnAd4l/versions/lKhjIqZR/create_jetpack-fabric-4.3.0.jar)
+- [**Create: Power Loader** (1.5.3)](https://cdn.modrinth.com/data/E9MuZ1zB/versions/fHsTW7eS/create_power_loader-1.5.3-mc1.20.1-fabric.jar)
+- [**Create: Broken Bad** (3.1.2)](https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar)
+- [**Create: Big Cannons** (5.8.2)](https://cdn.modrinth.com/data/GWp4jCJj/versions/bIFKELd8/createbigcannons-5.8.2-mc.1.20.1-fabric.jar)
+- [**Create: Cobblestone** (1.4.3b)](https://cdn.modrinth.com/data/ihpnEd80/versions/izAUzAiM/createcobblestone-1.4.3-beta%2Bfabric-1.20.1-85.jar)
+- [**Create Deco** (2.0.2)](https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar)
+- [**Create: Enchantable Machinery** (2.8.8)](https://cdn.modrinth.com/data/eqrvp4NK/versions/cJvX14xX/createenchantablemachinery-2.8.8-mc1.20.1-fabric.jar)
+- [**Create: Interiors** (0.5.6)](https://cdn.modrinth.com/data/r4Knci2k/versions/9PSq2nxO/interiors-0.5.6%2Bfabric-mc1.20.1-build.104.jar)
+- [**Create: Extended Gears** (2.1.1)](https://cdn.modrinth.com/data/qO4lsa4Y/versions/22pR1H3P/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar)
+- [**Create: Steam n' Rails** (1.6.9)](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
+- [**Create: Numismatics** (1.0.10)](https://cdn.modrinth.com/data/Jdbbtt0i/versions/TYxoB2MX/CreateNumismatics-1.0.10%2Bfabric-mc1.20.1.jar)
+- [**CTOV - Create: Structures** (1.0)](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar)
+- [**ChoiceTheorem's Overhauled Village** (3.4.10)](https://cdn.modrinth.com/data/fgmhI8kH/versions/tpKHcPzx/%5Bfabric%5Dctov-3.4.10.jar)
+- [**Lithostitched** (1.4)](https://cdn.modrinth.com/data/XaDC71GB/versions/PxDlrVW2/lithostitched-fabric-1.20.1-1.4.jar)
+- [**Load my F\*\*\*ing Tags / LMFT** (1.0.2)](https://cdn.modrinth.com/data/67kVxsaO/versions/IWpydKCV/lmft-1.0.2%2B1.20-fabric.jar)
+- [**Botarium** (2.3.4)](https://cdn.modrinth.com/data/2u6LRnMa/versions/f3ATcSfq/botarium-fabric-1.20.1-2.3.4.jar)
+- [**Farmer's Delight Refabricated** (2.2.5)](https://cdn.modrinth.com/data/7vxePowz/versions/iVLPoC2e/FarmersDelight-1.20.1-2.2.5%2Brefabricated.jar)
+- [**Vegan Delight** (1.(1/4).0)](https://cdn.modrinth.com/data/Na8nA0jA/versions/1oRt1xHa/VeganDelightFabric-1.1.0.jar)
+- [**Accessories** (1.0.0b.41)](https://cdn.modrinth.com/data/jtmvUHXj/versions/TK44XAd7/accessories-fabric-1.0.0-beta.41%2B1.20.1.jar)
+- [**owo-lib** (0.11.2)](https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar)
+- [**Decorative Blocks** (4.1.3)](https://cdn.modrinth.com/data/t6BIRVZn/versions/FibgWXh0/decorative_blocks-fabric-1.20.1-4.1.3.jar)
+- [**Grind Enchantments** (3.1.4)](https://cdn.modrinth.com/data/WC4UgDcZ/versions/W0SU2n1V/grind-enchantments-3.1.4%2B1.20.1.jar)
+- [**Dungeons and Taverns** (3.0.3f)](https://cdn.modrinth.com/data/tpehi7ww/versions/d1sY0JqV/dungeons-and-taverns-3.0.3.f.jar)
+- [**Trade Cycling** (1.0.15)](https://cdn.modrinth.com/data/qpPoAL6m/versions/Jd71Afpm/trade-cycling-fabric-1.20.1-1.0.15.jar)
+- [**Expanded Ecosphere** (3.2.4)](https://cdn.modrinth.com/data/O1XGs7ps/versions/xrUchinI/expanded_ecosphere-3.2.4-fabric.jar)
+- [**Cristel Lib** (1.1.5)](https://cdn.modrinth.com/data/cl223EMc/versions/tBnivdbu/cristellib-1.1.5-fabric.jar)
+- [**ReFramed** (1.6.6)](https://cdn.modrinth.com/data/jCpoCBpn/versions/qUajV4uc/ReFramed-1.6.6.jar)
+- [**FeedTheBeast/FTB Ultimine** (2001.1.5)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric/download/5363344)
+- [**FeedTheBeast/FTB Library** (2001.2.7)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/download/6016762)
+- [**GeckoLib** (4.7)](https://cdn.modrinth.com/data/8BmcQJ2H/versions/DAY9559u/geckolib-fabric-1.20.1-4.7.jar)
+- [**Jade** (11.12.0)](https://cdn.modrinth.com/data/nvQzSEkH/versions/Lvyx1o7I/Jade-1.20-Fabric-11.12.0.jar)
+- [**Jade Addons** (5.4.0)](https://cdn.modrinth.com/data/fThnVRli/versions/DSkzT8Ma/JadeAddons-1.20.1-Fabric-5.4.0.jar)
+- [**EMI / ~ Even More Items** (1.1.18)](https://cdn.modrinth.com/data/fRiHVvU7/versions/7z8wc2Iv/emi-1.1.18%2B1.20.1%2Bfabric.jar)
+- [**JEI / Just Enough Items** (15.20.0.105)](https://cdn.modrinth.com/data/u6dRKJwZ/versions/AFNTMB1o/jei-1.20.1-fabric-15.20.0.105.jar)
+- [**Xaero's Minimap** (24.7.1)](https://cdn.modrinth.com/data/1bokaNcj/versions/UsAehJcE/Xaeros_Minimap_24.7.1_Fabric_1.20.jar)
+- [**Xaero's World Map** (1.39.2)](https://cdn.modrinth.com/data/NcUtCpym/versions/VXCG8MnU/XaerosWorldMap_1.39.2_Fabric_1.20.jar)
+- [**Moog's Voyager Structures / MVS** (4.1.2)](https://cdn.modrinth.com/data/OQAgZMH1/versions/tbOvFJdA/mvs-4.1.2-1.20-fabric.jar)
+- [**Naturalist** (4.0.3)](https://cdn.modrinth.com/data/F8BQNPWX/versions/dMGBsRgz/naturalist-fabric-4.0.3-1.20.1.jar)
+- [**Simple Discord Link** (3.2.1)](https://cdn.modrinth.com/data/Sh0YauEf/versions/AVJaD8ZA/SimpleDiscordLink-Universal-3.2.1.jar)
+- [**CraterLib** (2.1.2 Hotfix.1)](https://cdn.modrinth.com/data/Nn8Wasaq/versions/EFb9tfNi/CraterLib-Fabric-1.20-2.1.2%2Bhotfix.1.jar)
+- [**Sophisticated Backpacks** (3.20.17.1.60)](https://cdn.modrinth.com/data/ouNrBQtq/versions/QohWxuZ4/sophisticatedbackpacks-1.20.1-3.20.17.1.60.jar)
+- [**Sophisticated Storage** (0.11.3.1.73)](https://cdn.modrinth.com/data/iHtpVwJL/versions/YSSNL8GL/sophisticatedstorage-1.20.1-0.11.3.1.73.jar)
+- [**Sophisticated Core** (0.7.12.2.96)](https://cdn.modrinth.com/data/9jxwkYQL/versions/HOD7NZlD/sophisticatedcore-1.20.1-0.7.12.2.96.jar)
+- [**Terralith** (2.5.4)](https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar)
+- [**Tom's Simple Storage** (1.6.9)](https://cdn.modrinth.com/data/XZNI4Cpy/versions/Nq1nC44P/toms_storage_fabric-1.20-1.6.9.jar)
+- [**Towns and Towers** (1.12)](https://cdn.modrinth.com/data/DjLobEOy/versions/7ZwnSrVW/Towns-and-Towers-1.12-Fabric%2BForge.jar)
+- [**BCLib** (3.0.14)](https://cdn.modrinth.com/data/BgNRHReB/versions/TPC86Pyz/bclib-3.0.14.jar)
+- [**Better Nether** (9.0.10)](https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar)
+- [**Better End** (4.0.11)](https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar)
+- [**Fzzy Config** (0.6.0)](https://cdn.modrinth.com/data/hYykXjDp/versions/uZkVazHv/fzzy_config-0.6.0%2B1.20.1.jar)
+
+### Client-Side Performance / QoL Mods:
+<sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
+
+- [**Sodium** (0.5.11)](https://cdn.modrinth.com/data/AANobbMI/versions/ygf8cVZg/sodium-fabric-0.5.11%2Bmc1.20.1.jar) <br>
+  **Sodium Addons**:
+  - [**Sodium Extra** (0.5.4)](https://cdn.modrinth.com/data/PtjYWJkn/versions/I7ggF6B5/sodium-extra-0.5.4%2Bmc1.20.1-build.115.jar)
+- [**Indium** (1.0.34)](https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar)
+- [**Lithium** (0.11.2)](https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar)
+- [**FerriteCore** (6.0.1)](https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar)
+- [**ImmediatelyFast** (1.3.3)](https://cdn.modrinth.com/data/5ZwdcRci/versions/H62RYZyG/ImmediatelyFast-Fabric-1.3.3%2B1.20.4.jar)
+- [**Entity Culling** (1.7.2)](https://cdn.modrinth.com/data/NNAgCjsB/versions/naHGCw23/entityculling-fabric-1.7.2-mc1.20.1.jar)
+- [**Clumps** (12.0.0.4)](https://cdn.modrinth.com/data/Wnxd13zP/versions/hefSwtn6/Clumps-fabric-1.20.1-12.0.0.4.jar)
+- [**ModernFix** (5.20.0)](https://cdn.modrinth.com/data/nmDcB62a/versions/xNIWGL6R/modernfix-fabric-5.20.0%2Bmc1.20.1.jar)
+- [**Memory Leak Fix** (1.1.5)](https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar)
+- [**MoreCulling** (0.24.0)](https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar)
+- [**Krypton** (0.2.3)](https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar)
+- [**Language Reload** (1.7.2)](https://cdn.modrinth.com/data/uLbm7CG6/versions/1KBQXsxy/language-reload-1.7.2%2B1.20.1.jar)
+- [**Debugify** (2.0)](https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1%2B2.0.jar) <br>
+  **Dependencies:**
+  - [**YetAnotherConfigLib** (3.6.2)](https://cdn.modrinth.com/data/1eAoo2KR/versions/yDSgD8Iz/YetAnotherConfigLib-3.6.2%2B1.20.1-fabric.jar)
+- [**LazyDFU** (0.1.3)](https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar)
+- [**Starlight** (1.1.2)](https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar)
+- [**Concurrent Chunk Management (C<sup>2</sup>M)** (0.2.0a.11.33)](https://cdn.modrinth.com/data/VSNURh3q/versions/LRL5QAZY/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.13.jar)
+- [**Distant Horizons** (2.2.1a)](https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar)
+- [**Remove Reloading Screen / RRLS** (4.0.6.1)](https://cdn.modrinth.com/data/ZP7xHXtw/versions/VHNE9K3D/rrls-4.0.6.1%2Bmc1.20.1-fabric.jar)
+- [**BadOptimizations** (2.2.1)](https://cdn.modrinth.com/data/g96Z4WVZ/versions/M0bM4C3I/BadOptimizations-2.2.1-1.20.1.jar)
+- [**FastLoad** (3.4.0)](https://cdn.modrinth.com/data/kCpssoSb/versions/ys9T20o4/Fastload%2B1.18.2-1.20-3.4.0.jar)
+- [**ToolTipFix** (1.1.1)](https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar)
+- [**ThreadTweak** (0.1.1)](https://cdn.modrinth.com/data/vSEH1ERy/versions/gBP1GqtK/threadtweak-fabric-1.20.2-0.1.1.jar)
+- [**FastAnim** (1.6)](https://cdn.modrinth.com/data/yHf7SALy/versions/5lHXCowj/lunade-fastanim-1.6-1.20.jar)
+- [**BetterBeds** (1.3.0)](https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar)
+- [**ParticleCore** (0.2.5)](https://cdn.modrinth.com/data/RSeLon5O/versions/ryjPL8AJ/particle_core-0.2.5%2B1.20.1.jar)
+
+---
+
 ## /create
 ### Information
 **Minecraft Version:** 1.20.1 <br>
