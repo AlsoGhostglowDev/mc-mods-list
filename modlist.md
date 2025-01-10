@@ -79,6 +79,9 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Better End** (4.0.11)](https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar)
 - [**Fzzy Config** (0.6.0)](https://cdn.modrinth.com/data/hYykXjDp/versions/uZkVazHv/fzzy_config-0.6.0%2B1.20.1.jar)
 - [**Yung's API** (4.0.6)](https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar)
+- [**Continuity** (3.0.0)](https://cdn.modrinth.com/data/1IjD5062/versions/qGTDcjHM/continuity-3.0.0%2B1.20.1.jar)
+- [**Supplementaries** (3.1.10)](https://cdn.modrinth.com/data/fFEIiSDQ/versions/SFY0zXug/supplementaries-1.20-3.1.10-fabric.jar)
+- [**Moonlight Lib** (2.13.47)](https://cdn.modrinth.com/data/twkfQtEc/versions/uU2JWh54/moonlight-1.20-2.13.47-fabric.jar)
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
