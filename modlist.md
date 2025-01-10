@@ -9,7 +9,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 **Minecraft Version:** 1.20.1 <br>
 **Software:** Fabric <br>
 **Software Version:** 0.16.9 <br> 
-<sup>*Last updated at `10/1/2024 1:50 (GMT+8)`*</sup>
+<sup>*Last updated at `10/1/2024 2:03 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -38,6 +38,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Create: Extended Gears** (2.1.1)](https://cdn.modrinth.com/data/qO4lsa4Y/versions/22pR1H3P/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar)
 - [**Create: Steam n' Rails** (1.6.9)](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
 - [**Create: Numismatics** (1.0.10)](https://cdn.modrinth.com/data/Jdbbtt0i/versions/TYxoB2MX/CreateNumismatics-1.0.10%2Bfabric-mc1.20.1.jar)
+- [**Create: Crafts & Additions** (1.2.4)](https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar)
 - [**CTOV - Create: Structures** (1.0)](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar)
 - [**ChoiceTheorem's Overhauled Village** (3.4.10)](https://cdn.modrinth.com/data/fgmhI8kH/versions/tpKHcPzx/%5Bfabric%5Dctov-3.4.10.jar)
 - [**Lithostitched** (1.4)](https://cdn.modrinth.com/data/XaDC71GB/versions/PxDlrVW2/lithostitched-fabric-1.20.1-1.4.jar)
@@ -77,6 +78,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Better Nether** (9.0.10)](https://cdn.modrinth.com/data/MpzVLzy5/versions/IG7kgtJH/better-nether-9.0.10.jar)
 - [**Better End** (4.0.11)](https://cdn.modrinth.com/data/gc8OEnCC/versions/7QwyTILr/better-end-4.0.11.jar)
 - [**Fzzy Config** (0.6.0)](https://cdn.modrinth.com/data/hYykXjDp/versions/uZkVazHv/fzzy_config-0.6.0%2B1.20.1.jar)
+- [**Yung's API** (4.0.6)](https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar)
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
