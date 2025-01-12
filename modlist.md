@@ -8,7 +8,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Fabric (0.16.9) <br> 
-<sup>*Last updated at `12/1/2024 3:20 (GMT+8)`*</sup>
+<sup>*Last updated at `12/1/2024 3:38 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -50,6 +50,8 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Farmer's Delight Refabricated** (2.2.5)](https://cdn.modrinth.com/data/7vxePowz/versions/iVLPoC2e/FarmersDelight-1.20.1-2.2.5%2Brefabricated.jar)
 - [**Vegan Delight** (1.(1/4).0)](https://cdn.modrinth.com/data/Na8nA0jA/versions/1oRt1xHa/VeganDelightFabric-1.1.0.jar)
 - [**Accessories** (1.0.0b.41)](https://cdn.modrinth.com/data/jtmvUHXj/versions/TK44XAd7/accessories-fabric-1.0.0-beta.41%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Trinkets Compat Layer for Accessories** (3.8.1-beta.14)](https://cdn.modrinth.com/data/TkWgV1AW/versions/dfzKbUiE/accessories_tclayer-3.8.1-beta.14%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Trinkets** (3.7.2)](https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar)
 - [**owo-lib** (0.11.2)](https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2%2B1.20.jar)
 - [**Decorative Blocks** (4.1.3)](https://cdn.modrinth.com/data/t6BIRVZn/versions/FibgWXh0/decorative_blocks-fabric-1.20.1-4.1.3.jar)
 - [**Grind Enchantments** (3.1.4)](https://cdn.modrinth.com/data/WC4UgDcZ/versions/W0SU2n1V/grind-enchantments-3.1.4%2B1.20.1.jar)
