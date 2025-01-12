@@ -7,9 +7,8 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 ## /create-fabric
 ### Information
 **Minecraft Version:** 1.20.1 <br>
-**Software:** Fabric <br>
-**Software Version:** 0.16.9 <br> 
-<sup>*Last updated at `10/1/2024 3:00 (GMT+8)`*</sup>
+**Platform:** Fabric (0.16.9) <br> 
+<sup>*Last updated at `12/1/2024 3:20 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -27,19 +26,22 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Create: Slice & Dice** (3.3.1)](https://cdn.modrinth.com/data/GmjmRQ0A/versions/EzpVcwYV/sliceanddice-fabric-3.3.1.jar)
 - [**Create: Connected** (0.7.4h)](https://cdn.modrinth.com/data/QtkeMX9L/versions/S7xwyDWA/create_connected-0.7.4-mc1.20.1%2BFABRIC%2BHOTFIX.jar)
 - [**Create: Enchantment Industry** (1.2.16)](https://cdn.modrinth.com/data/AEZO385x/versions/SI0RzkGk/create_enchantment_industry-1.2.16.jar)
-- [**Create: Jetpack** (4.3.0)](https://cdn.modrinth.com/data/UbFnAd4l/versions/lKhjIqZR/create_jetpack-fabric-4.3.0.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Jetpack** (4.2.1)](https://cdn.modrinth.com/data/UbFnAd4l/versions/8uCe6WkD/create_jetpack-fabric-4.2.1.jar)
 - [**Create: Power Loader** (1.5.3)](https://cdn.modrinth.com/data/E9MuZ1zB/versions/fHsTW7eS/create_power_loader-1.5.3-mc1.20.1-fabric.jar)
 - [**Create: Broken Bad** (3.1.2)](https://cdn.modrinth.com/data/uIfluo9C/versions/5Ibh9a9W/createbb1.20.1.jar)
-- [**Create: Big Cannons** (5.8.2)](https://cdn.modrinth.com/data/GWp4jCJj/versions/bIFKELd8/createbigcannons-5.8.2-mc.1.20.1-fabric.jar)
-- [**Create: Cobblestone** (1.4.3b)](https://cdn.modrinth.com/data/ihpnEd80/versions/izAUzAiM/createcobblestone-1.4.3-beta%2Bfabric-1.20.1-85.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Big Cannons** (5.5.1)](https://cdn.modrinth.com/data/GWp4jCJj/versions/pOCvB359/createbigcannons-5.5.1%2Bmc.1.20.1-fabric.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Cobblestone** (1.4.1)](https://cdn.modrinth.com/data/ihpnEd80/versions/FHwRy1XA/createcobblestone-1.4.1%2Bfabric-1.20.1-73.jar)
 - [**Create Deco** (2.0.2)](https://cdn.modrinth.com/data/sMvUb4Rb/versions/GsxgfeNu/createdeco-2.0.2-1.20.1-fabric.jar)
 - [**Create: Enchantable Machinery** (2.8.8)](https://cdn.modrinth.com/data/eqrvp4NK/versions/cJvX14xX/createenchantablemachinery-2.8.8-mc1.20.1-fabric.jar)
-- [**Create: Interiors** (0.5.6)](https://cdn.modrinth.com/data/r4Knci2k/versions/9PSq2nxO/interiors-0.5.6%2Bfabric-mc1.20.1-build.104.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Interiors** (0.5.3)](https://cdn.modrinth.com/data/r4Knci2k/versions/7QGvBpZU/interiors-0.5.3%2Bfabric-mc1.20.1.jar)
 - [**Create: Extended Gears** (2.1.1)](https://cdn.modrinth.com/data/qO4lsa4Y/versions/22pR1H3P/extendedgears-2.1.1-1.20.1-0.5.1.f-fabric.jar)
-- [**Create: Steam n' Rails** (1.6.9)](https://cdn.modrinth.com/data/ZzjhlDgM/versions/VFhdqLko/Steam_Rails-1.6.9%2Bfabric-mc1.20.1.jar)
-- [**Create: Numismatics** (1.0.10)](https://cdn.modrinth.com/data/Jdbbtt0i/versions/TYxoB2MX/CreateNumismatics-1.0.10%2Bfabric-mc1.20.1.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Steam n' Rails** (1.6.4)](https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar)
+- $${\color{red}* (UPDATED)}$$ [**Create: Numismatics** (1.0.7)](https://cdn.modrinth.com/data/Jdbbtt0i/versions/3yGXOGxY/CreateNumismatics-1.0.7%2Bfabric-mc1.20.1.jar)
 - [**Create: Crafts & Additions** (1.2.4)](https://cdn.modrinth.com/data/kU1G12Nn/versions/vV4bZmhm/createaddition-fabric%2B1.20.1-1.2.4.jar)
 - [**Create: Storage** (0.2.0)](https://cdn.modrinth.com/data/68AG9cQg/versions/SaBfrKba/fxntstorage-0.20-1.20.1-FABRIC%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Create: Bells & Whistles** (0.4.5)](https://cdn.modrinth.com/data/gJ5afkVv/versions/m0GUubvz/bellsandwhistles-0.4.5%2B1.20.1-FABRIC.jar)
+- $${\color{red}*}$$ [**Create: Chipped Compat** (1.0.0)](https://cdn.modrinth.com/data/Ncbuvyrf/versions/Q9Q2uYPe/chcf-1.0.0.jar)
+- $${\color{red}*}$$ [**Create: Copycats+** (2.1.4)](https://cdn.modrinth.com/data/UT2M39wf/versions/r8HAtEtA/copycats-2.1.4%2Bmc.1.20.1-fabric.jar)
 - [**CTOV - Create: Structures** (1.0)](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar)
 - [**ChoiceTheorem's Overhauled Village** (3.4.10)](https://cdn.modrinth.com/data/fgmhI8kH/versions/tpKHcPzx/%5Bfabric%5Dctov-3.4.10.jar)
 - [**Lithostitched** (1.4)](https://cdn.modrinth.com/data/XaDC71GB/versions/PxDlrVW2/lithostitched-fabric-1.20.1-1.4.jar)
@@ -82,6 +84,22 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Yung's API** (4.0.6)](https://cdn.modrinth.com/data/Ua7DFN59/versions/lscV1N5k/YungsApi-1.20-Fabric-4.0.6.jar)
 - [**Supplementaries** (3.1.10)](https://cdn.modrinth.com/data/fFEIiSDQ/versions/SFY0zXug/supplementaries-1.20-3.1.10-fabric.jar)
 - [**Moonlight Lib** (2.13.47)](https://cdn.modrinth.com/data/twkfQtEc/versions/uU2JWh54/moonlight-1.20-2.13.47-fabric.jar)
+- $${\color{red}*}$$ [**Athena** (3.1.2)](https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.20.1-3.1.2.jar)
+- $${\color{red}*}$$ [**Bits n' Bobs** (0.15)](https://cdn.modrinth.com/data/XHWdUtij/versions/SbPxsjeP/bitsnbobs-0.15-1.20.1-FABRIC%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Carry-on** (2.1.2.7)](https://cdn.modrinth.com/data/joEfVgkn/versions/Mkla4B3q/carryon-fabric-1.20.1-2.1.2.7.jar)
+- $${\color{red}*}$$ [**Chipped** (3.0.7)](https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1.20.1-3.0.7.jar)
+- $${\color{red}*}$$ [**Diagonal Fences** (8.1.5)](https://cdn.modrinth.com/data/IKARgflD/versions/eJNY2Ah4/DiagonalFences-v8.1.5-1.20.1-Fabric.jar)
+- $${\color{red}*}$$ [**Diagonal Walls** (8.0.4)](https://cdn.modrinth.com/data/FQgc8dib/versions/uAsQHTvk/DiagonalWalls-v8.0.4-1.20.1-Fabric.jar)
+- $${\color{red}*}$$ [**Forge Config API Port** (8.0.1)](https://cdn.modrinth.com/data/ohNO6lps/versions/Qs8LaZLo/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar)
+- $${\color{red}*}$$ [**Macaw's Doors** (1.1.1)](https://cdn.modrinth.com/data/kNxa8z3e/versions/vkuwEpj0/mcw-doors-1.1.1fabric-mc1.20.1.jar)
+- $${\color{red}*}$$ [**Macaw's Furniture** (3.3.0)](https://cdn.modrinth.com/data/dtWC90iB/versions/7aTbV3Sq/mcw-furniture-3.3.0-mc1.20.1fabric.jar)
+- $${\color{red}*}$$ [**Macaw's Roofs** (2.3.1)](https://cdn.modrinth.com/data/B8jaH3P1/versions/EOjhPmTj/mcw-roofs-2.3.1-mc1.20.1fabric.jar)
+- $${\color{red}*}$$ [**Macaw's Stairs** (1.0.0)](https://cdn.modrinth.com/data/iP3wH1ha/versions/D6Em4YO3/mcw-stairs-1.0.0-1.20.1fabric.jar)
+- $${\color{red}*}$$ [**Macaw's Windows** (2.3.0)](https://cdn.modrinth.com/data/C7I0BCni/versions/88sYNcv4/mcw-windows-2.3.0-mc1.20.1fabric.jar)
+- $${\color{red}*}$$ [**Paladin's Furniture Mod** (1.3)](https://cdn.modrinth.com/data/SISz7Qd3/versions/E0I9zNUV/paladin-furniture-mod-1.3-fabric-mc1.20.1.jar)
+- $${\color{red}*}$$ [**PuzzlesLib** (8.1.25)](https://cdn.modrinth.com/data/QAGBst4M/versions/qjSRRf2B/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar)
+- $${\color{red}*}$$ [**Resourceful Lib** (2.1.29)](https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar)
+- $${\color{red}*}$$ [**Trowel** (1.3.0)](https://cdn.modrinth.com/data/o8YrbYfv/versions/ZkkpGUSH/trowel-1.3.0-1.20.jar)
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
@@ -121,8 +139,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 ## /create
 ### Information
 **Minecraft Version:** 1.20.1 <br>
-**Software:** Forge <br>
-**Software Version:** 47.3.22 / 47.3.12 <br> 
+**Platform:** Forge (47.3.12) <br> 
 <sup>*Last updated at `8/1/2024 22:33 (GMT+8)`*</sup>
 
 ### Mods:
