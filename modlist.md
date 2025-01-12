@@ -8,7 +8,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Fabric (0.16.9) <br> 
-<sup>*Last updated at `12/1/2024 3:38 (GMT+8)`*</sup>
+<sup>*Last updated at `12/1/2024 21:35 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -102,6 +102,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - $${\color{red}*}$$ [**PuzzlesLib** (8.1.25)](https://cdn.modrinth.com/data/QAGBst4M/versions/qjSRRf2B/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar)
 - $${\color{red}*}$$ [**Resourceful Lib** (2.1.29)](https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar)
 - $${\color{red}*}$$ [**Trowel** (1.3.0)](https://cdn.modrinth.com/data/o8YrbYfv/versions/ZkkpGUSH/trowel-1.3.0-1.20.jar)
+- $${\color{red}*}$$ [**Naturalist Delight** (1.0.2)](https://www.curseforge.com/minecraft/mc-mods/naturalist-delight/download/5711071)
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
@@ -135,6 +136,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**FastAnim** (1.6)](https://cdn.modrinth.com/data/yHf7SALy/versions/5lHXCowj/lunade-fastanim-1.6-1.20.jar)
 - [**BetterBeds** (1.3.0)](https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar)
 - [**ParticleCore** (0.2.5)](https://cdn.modrinth.com/data/RSeLon5O/versions/ryjPL8AJ/particle_core-0.2.5%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Zoomify** (2.14.2)](https://cdn.modrinth.com/data/w7ThoJFB/versions/RW06GEHk/Zoomify-2.14.2%2B1.20.1.jar)
 
 ---
 
