@@ -1,6 +1,8 @@
 # Mods List
 ### Information
 The red star ($${\color{red}*}$$) indicates it's just been added recently.
+while the orange star ($${\color{orange}*}$$) indicates it's been added recently yesterday.<br>
+Only happens when there's alot of mods updates going through the same day 
 
 ---
 
@@ -8,7 +10,7 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Fabric (0.16.9) <br> 
-<sup>*Last updated at `13/1/2024 22:43 (GMT+8)`*</sup>
+<sup>*Last updated at `14/1/2025 08:16 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -103,15 +105,16 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [**Resourceful Lib** (2.1.29)](https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar)
 - [**Trowel** (1.3.0)](https://cdn.modrinth.com/data/o8YrbYfv/versions/ZkkpGUSH/trowel-1.3.0-1.20.jar)
 - [**Naturalist Delight** (1.0.2)](https://www.curseforge.com/minecraft/mc-mods/naturalist-delight/download/5711071)
-- $${\color{red}*}$$ [**Artifacts** (9.5.13)](https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ddhoLf22/artifacts-fabric-9.5.13.jar)
-- $${\color{red}*}$$ [**Delightful Chefs** (1.0.3)](https://cdn.modrinth.com/data/sCnO4R7e/versions/cTWY5uBo/delightful-chefs-1.0.3-fabric.jar)
-- $${\color{red}*}$$ [**Delightful Creators** (1.3)](https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar)
-- $${\color{red}*}$$ [**Expanded Delight** (0.3.2)](https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar)
-- $${\color{red}*}$$ [**Patchouli** (84.0.0)](https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar)
-- $${\color{red}*}$$ [**Waystones** (14.1.6)](https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar)
-- $${\color{red}*}$$ [**Way2Way (Waystones-Xaero Compat)** (0.0.6)](https://cdn.modrinth.com/data/lO0vzQUy/versions/IBsP5dyt/way2wayfabric-0.0.6.jar)
-- $${\color{red}*}$$ [**Balm** (7.3.11)](https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar)
-
+- $${\color{orange}*}$$ [**Artifacts** (9.5.13)](https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ddhoLf22/artifacts-fabric-9.5.13.jar)
+- $${\color{orange}*}$$ [**Delightful Chefs** (1.0.3)](https://cdn.modrinth.com/data/sCnO4R7e/versions/cTWY5uBo/delightful-chefs-1.0.3-fabric.jar)
+- $${\color{orange}*}$$ [**Delightful Creators** (1.3)](https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar)
+- $${\color{orange}*}$$ [**Expanded Delight** (0.3.2)](https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar)
+- $${\color{orange}*}$$ [**Patchouli** (84.0.0)](https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar)
+- $${\color{orange}*}$$ [**Waystones** (14.1.6)](https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar)
+- $${\color{orange}*}$$ [**Way2Way (Waystones-Xaero Compat)** (0.0.6)](https://cdn.modrinth.com/data/lO0vzQUy/versions/IBsP5dyt/way2wayfabric-0.0.6.jar)
+- $${\color{orange}*}$$ [**Balm** (7.3.11)](https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar)
+- $${\color{red}*}$$ [**Comforts** (6.4.0)](https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar)
+- $${\color{red}*}$$ [**Pettable** (1.4.0)](https://cdn.modrinth.com/data/PFVwk20g/versions/PXgMRzTt/pettable-1.4.0.jar)
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
@@ -220,16 +223,16 @@ The red star ($${\color{red}*}$$) indicates it's just been added recently.
 - [Saturn (0.1.3)](https://cdn.modrinth.com/data/2eT495vq/versions/Yx85DYaG/saturn-mc1.20.1-0.1.3.jar)
 - [Shulker Box Tooltip (4.0.4)](https://cdn.modrinth.com/data/2M01OLQq/versions/QMp2SF1u/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar)
 - [Smooth Boot: Reloaded (0.0.4)](https://cdn.modrinth.com/data/z53V2L4P/versions/HkfL3iGO/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar)
-- $${\color{red}* [UPDATED]}$$ [Sophisticated Backpacks (3.21.2.1163)](https://cdn.modrinth.com/data/TyCTlI4b/versions/eM4nJ65h/sophisticatedbackpacks-1.20.1-3.21.2.1163.jar)
-- $${\color{red}* [UPDATED]}$$ [Sophisticated Core (1.0.8.828)](https://cdn.modrinth.com/data/nmoqTijg/versions/kYddH9dA/sophisticatedcore-1.20.1-1.0.8.828.jar)
+- [Sophisticated Backpacks (3.21.2.1163)](https://cdn.modrinth.com/data/TyCTlI4b/versions/eM4nJ65h/sophisticatedbackpacks-1.20.1-3.21.2.1163.jar)
+- [Sophisticated Core (1.0.8.828)](https://cdn.modrinth.com/data/nmoqTijg/versions/kYddH9dA/sophisticatedcore-1.20.1-1.0.8.828.jar)
 - [Spark (1.10.53)](https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar)
 - [Starlight (1.1.2)](https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar)
 - [Supplementaries (3.1.10)](https://cdn.modrinth.com/data/fFEIiSDQ/versions/HcdcLvdS/supplementaries-1.20-3.1.10.jar)
 - [Amendments (1.2.14)](https://cdn.modrinth.com/data/6iTJugQR/versions/1g60gHDB/amendments-1.20-1.2.14.jar)
-- $${\color{red}*}$$ [Dis-enchanting Table (3.1.0)](https://cdn.modrinth.com/data/9BgYgXE4/versions/rF2W8xAc/disenchanting_table-merged-1.20.1-3.1.0.jar)
-- $${\color{red}*}$$ [MonoLib (1.4.1)](https://cdn.modrinth.com/data/9leXt4A5/versions/XzmhSfq6/monolib-forge-1.20.1-1.4.1.jar)
-- $${\color{red}*}$$ [Create: Power Loader (1.5.0)](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar)
-- $${\color{red}*}$$ [Create: Broken Bad (3.2.1)](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad/download/5192482)
-- $${\color{red}*}$$ [Sophisticated Storage (1.0.10.1007)](https://cdn.modrinth.com/data/hMlaZH8f/versions/VXGknpWt/sophisticatedstorage-1.20.1-1.0.10.1007.jar)
-- $${\color{red}*}$$ [Tom's Simple Storage (1.6.9)](https://cdn.modrinth.com/data/XZNI4Cpy/versions/hKLNn4tS/toms_storage-1.20-1.6.9.jar)
-- $${\color{red}*}$$ [Create Contraption Terminals (TSS to Create Compat; 1.0.1)](https://cdn.modrinth.com/data/gOPAFzp0/versions/KKa2zLhs/createcontraptionterminals-1.20-1.0.1.jar)
+- [Dis-enchanting Table (3.1.0)](https://cdn.modrinth.com/data/9BgYgXE4/versions/rF2W8xAc/disenchanting_table-merged-1.20.1-3.1.0.jar)
+- [MonoLib (1.4.1)](https://cdn.modrinth.com/data/9leXt4A5/versions/XzmhSfq6/monolib-forge-1.20.1-1.4.1.jar)
+- [Create: Power Loader (1.5.0)](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar)
+- [Create: Broken Bad (3.2.1)](https://www.curseforge.com/minecraft/mc-mods/create-broken-bad/download/5192482)
+- [Sophisticated Storage (1.0.10.1007)](https://cdn.modrinth.com/data/hMlaZH8f/versions/VXGknpWt/sophisticatedstorage-1.20.1-1.0.10.1007.jar)
+- [Tom's Simple Storage (1.6.9)](https://cdn.modrinth.com/data/XZNI4Cpy/versions/hKLNn4tS/toms_storage-1.20-1.6.9.jar)
+- [Create Contraption Terminals (TSS to Create Compat; 1.0.1)](https://cdn.modrinth.com/data/gOPAFzp0/versions/KKa2zLhs/createcontraptionterminals-1.20-1.0.1.jar)
