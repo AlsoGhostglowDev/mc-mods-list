@@ -1,7 +1,7 @@
 # Mods List
 ### Information
-The red star ($${\color{red}*}$$) indicates it's just been added recently.
-while the orange star ($${\color{orange}*}$$) indicates it's been added recently yesterday.<br>
+The red star ($${\color{red}\*}$$) indicates it's just been added recently.
+while the orange star ($${\color{orange}\*}$$) indicates it's been added recently yesterday.<br>
 Only happens when there's alot of mods updates going through the same day 
 
 ---
