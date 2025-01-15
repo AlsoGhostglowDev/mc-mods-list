@@ -10,7 +10,7 @@ Only happens when there's alot of mods updates going through the same day
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Fabric (0.16.9) <br> 
-<sup>*Last updated at `14/1/2025 08:16 (GMT+8)`*</sup>
+<sup>*Last updated at `15/1/2025 21:38 (GMT+8)`*</sup>
 
 ### Mods:
 - [**Fabric API** (0.92.3)](https://cdn.modrinth.com/data/P7dR8mSH/versions/SKPWumQf/fabric-api-0.92.3%2B1.20.1.jar)
@@ -105,16 +105,21 @@ Only happens when there's alot of mods updates going through the same day
 - [**Resourceful Lib** (2.1.29)](https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar)
 - [**Trowel** (1.3.0)](https://cdn.modrinth.com/data/o8YrbYfv/versions/ZkkpGUSH/trowel-1.3.0-1.20.jar)
 - [**Naturalist Delight** (1.0.2)](https://www.curseforge.com/minecraft/mc-mods/naturalist-delight/download/5711071)
-- $${\color{orange}*}$$ [**Artifacts** (9.5.13)](https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ddhoLf22/artifacts-fabric-9.5.13.jar)
-- $${\color{orange}*}$$ [**Delightful Chefs** (1.0.3)](https://cdn.modrinth.com/data/sCnO4R7e/versions/cTWY5uBo/delightful-chefs-1.0.3-fabric.jar)
-- $${\color{orange}*}$$ [**Delightful Creators** (1.3)](https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar)
-- $${\color{orange}*}$$ [**Expanded Delight** (0.3.2)](https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar)
-- $${\color{orange}*}$$ [**Patchouli** (84.0.0)](https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar)
-- $${\color{orange}*}$$ [**Waystones** (14.1.6)](https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar)
-- $${\color{orange}*}$$ [**Way2Way (Waystones-Xaero Compat)** (0.0.6)](https://cdn.modrinth.com/data/lO0vzQUy/versions/IBsP5dyt/way2wayfabric-0.0.6.jar)
-- $${\color{orange}*}$$ [**Balm** (7.3.11)](https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar)
-- $${\color{red}*}$$ [**Comforts** (6.4.0)](https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar)
-- $${\color{red}*}$$ [**Pettable** (1.4.0)](https://cdn.modrinth.com/data/PFVwk20g/versions/PXgMRzTt/pettable-1.4.0.jar)
+- [**Artifacts** (9.5.13)](https://cdn.modrinth.com/data/P0Mu4wcQ/versions/ddhoLf22/artifacts-fabric-9.5.13.jar)
+- [**Delightful Chefs** (1.0.3)](https://cdn.modrinth.com/data/sCnO4R7e/versions/cTWY5uBo/delightful-chefs-1.0.3-fabric.jar)
+- [**Delightful Creators** (1.3)](https://cdn.modrinth.com/data/jmJ87gsb/versions/u29d1nXQ/delightful-creators-1.3-1.20.x-FDR-support.jar)
+- [**Expanded Delight** (0.3.2)](https://cdn.modrinth.com/data/e9V6wFcR/versions/4KEfJPHI/expandeddelight-0.3.2.jar)
+- [**Patchouli** (84.0.0)](https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar)
+- [**Waystones** (14.1.6)](https://cdn.modrinth.com/data/LOpKHB2A/versions/FOC8o94m/waystones-fabric-1.20-14.1.6.jar)
+- [**Way2Way (Waystones-Xaero Compat)** (0.0.6)](https://cdn.modrinth.com/data/lO0vzQUy/versions/IBsP5dyt/way2wayfabric-0.0.6.jar)
+- [**Balm** (7.3.11)](https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar)
+- [**Comforts** (6.4.0)](https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar)
+- [**Pettable** (1.4.0)](https://cdn.modrinth.com/data/PFVwk20g/versions/PXgMRzTt/pettable-1.4.0.jar)
+- $${\color{red}*}$$ [**Nether's Delight** (1.0.4 ; 1.7.6)](https://cdn.modrinth.com/data/uIOfYdnw/versions/hWkzjgHd/MyNethersDelight-1.20.1-1.0.4%2B1.7.6.refabricated.jar)
+- $${\color{red}*}$$ [**Better Nether Delight** (1.0.2)](https://cdn.modrinth.com/data/aSmUZhrk/versions/xqNT44Vm/betternetherdelight-1.0.2-1.20.1.jar)
+- $${\color{red}*}$$ [**End's Delight** (2.5)](https://cdn.modrinth.com/data/yHN0njMr/versions/kNmI1WJu/ends_delight-refabricated-1.20.1-2.5.jar)
+- $${\color{red}*}$$ [**Better End Delight** (1.0.2)](https://cdn.modrinth.com/data/2OVCqWI9/versions/LIBBVYL4/betterenddelight-1.0.2-1.20.1.jar)
+
 
 ### Client-Side Performance / QoL Mods:
 <sup>[Where to find?](https://modrinth.com/mods?v=1.20.1&g=categories:fabric&f=categories:optimization&e=client)</sup>
