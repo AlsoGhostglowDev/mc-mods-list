@@ -64,6 +64,9 @@ Only happens when there's alot of mods updates going through the same day
 - [**ReFramed** (1.6.6)](https://cdn.modrinth.com/data/jCpoCBpn/versions/qUajV4uc/ReFramed-1.6.6.jar)
 - [**FeedTheBeast/FTB Ultimine** (2001.1.5)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric/download/5363344)
 - [**FeedTheBeast/FTB Library** (2001.2.7)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/download/6016762)
+- $${\color{red}*}$$ [**FeedTheBeast/FTB Quests** (2001.4.10)](https://mediafilez.forgecdn.net/files/6133/439/ftb-quests-fabric-2001.4.10.jar)
+- $${\color{red}*}$$ [**FeedTheBeast/FTB Chunks** (2001.3.4)](https://mediafilez.forgecdn.net/files/5956/389/ftb-chunks-fabric-2001.3.4.jar)
+- $${\color{red}*}$$ [**FeedTheBeast/FTB Teams** (2001.3.1)](https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar)
 - [**GeckoLib** (4.7)](https://cdn.modrinth.com/data/8BmcQJ2H/versions/DAY9559u/geckolib-fabric-1.20.1-4.7.jar)
 - [**Jade** (11.12.0)](https://cdn.modrinth.com/data/nvQzSEkH/versions/Lvyx1o7I/Jade-1.20-Fabric-11.12.0.jar)
 - [**Jade Addons** (5.4.0)](https://cdn.modrinth.com/data/fThnVRli/versions/DSkzT8Ma/JadeAddons-1.20.1-Fabric-5.4.0.jar)
@@ -115,10 +118,10 @@ Only happens when there's alot of mods updates going through the same day
 - [**Balm** (7.3.11)](https://cdn.modrinth.com/data/MBAkmtvl/versions/n7vxIoYf/balm-fabric-1.20.1-7.3.11.jar)
 - [**Comforts** (6.4.0)](https://cdn.modrinth.com/data/SaCpeal4/versions/pMr60Kkq/comforts-fabric-6.4.0%2B1.20.1.jar)
 - [**Pettable** (1.4.0)](https://cdn.modrinth.com/data/PFVwk20g/versions/PXgMRzTt/pettable-1.4.0.jar)
-- $${\color{red}*}$$ [**Nether's Delight** (1.0.4 ; 1.7.6)](https://cdn.modrinth.com/data/uIOfYdnw/versions/hWkzjgHd/MyNethersDelight-1.20.1-1.0.4%2B1.7.6.refabricated.jar)
-- $${\color{red}*}$$ [**Better Nether Delight** (1.0.2)](https://cdn.modrinth.com/data/aSmUZhrk/versions/xqNT44Vm/betternetherdelight-1.0.2-1.20.1.jar)
-- $${\color{red}*}$$ [**End's Delight** (2.5)](https://cdn.modrinth.com/data/yHN0njMr/versions/kNmI1WJu/ends_delight-refabricated-1.20.1-2.5.jar)
-- $${\color{red}*}$$ [**Better End Delight** (1.0.2)](https://cdn.modrinth.com/data/2OVCqWI9/versions/LIBBVYL4/betterenddelight-1.0.2-1.20.1.jar)
+- [**Nether's Delight** (1.0.4 ; 1.7.6)](https://cdn.modrinth.com/data/uIOfYdnw/versions/hWkzjgHd/MyNethersDelight-1.20.1-1.0.4%2B1.7.6.refabricated.jar)
+- [**Better Nether Delight** (1.0.2)](https://cdn.modrinth.com/data/aSmUZhrk/versions/xqNT44Vm/betternetherdelight-1.0.2-1.20.1.jar)
+- [**End's Delight** (2.5)](https://cdn.modrinth.com/data/yHN0njMr/versions/kNmI1WJu/ends_delight-refabricated-1.20.1-2.5.jar)
+- [**Better End Delight** (1.0.2)](https://cdn.modrinth.com/data/2OVCqWI9/versions/LIBBVYL4/betterenddelight-1.0.2-1.20.1.jar)
 
 
 ### Client-Side Performance / QoL Mods:
