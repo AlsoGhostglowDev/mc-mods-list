@@ -1,30 +1,53 @@
 name: Zip Each Directory Separately
 
-on: 
+on:
   push:
     branches:
       - main
   workflow_dispatch:
 
 jobs:
-  zip-directories:
+  zip:
+    name: Create ZIP files
     runs-on: ubuntu-latest
-    
+    outputs:
+      zip_files: ${{ steps.collect.outputs.zip_files }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
       - name: Create ZIP files for each directory (excluding .git)
         run: |
-          shopt -s dotglob  # Include hidden files
+          # Include hidden files (if any) in globbing
+          shopt -s dotglob
           for dir in */; do
-            if [ -d "$dir" ]; then  # Ensure it's a directory
-              zip -r "${dir%/}.zip" "$dir" -x "$dir/.git/*"  # Exclude .git directory
+            if [ -d "$dir" ]; then
+              echo "Zipping $dir..."
+              zip -r "${dir%/}.zip" "$dir" -x "$dir/.git/*"
             fi
           done
 
-      - name: Upload each ZIP as a separate artifact
+      - name: List and collect ZIP files
+        id: collect
+        run: |
+          echo "Found ZIP files:"
+          ls -1 *.zip
+          # Create a JSON array of zip filenames
+          zip_files=$(ls -1 *.zip | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "zip_files=$zip_files" >> "$GITHUB_OUTPUT"
+          echo "::set-output name=zip_files::$zip_files"
+        # (jq is available on ubuntu-latest by default)
+
+  upload:
+    name: Upload ZIP artifacts
+    needs: zip
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        zip_file: ${{ fromJson(needs.zip.outputs.zip_files) }}
+    steps:
+      - name: Upload artifact for ${{ matrix.zip_file }}
         uses: actions/upload-artifact@v4
         with:
-          path: "*.zip"
-          retention-days: 7  # Keep artifacts for 7 days
+          name: ${{ matrix.zip_file }}
+          path: ${{ matrix.zip_file }}
