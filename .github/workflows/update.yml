@@ -3,8 +3,8 @@ name: Zip Each Directory Separately
 on: 
   push:
     branches:
-      - main  # Adjust if needed
-  workflow_dispatch:  # Allows manual triggering
+      - main
+  workflow_dispatch:
 
 jobs:
   zip-directories:
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create ZIP files for each directory (excluding files)
+      - name: Create ZIP files for each directory
         run: |
           shopt -s dotglob  # Include hidden files
           for dir in */; do
@@ -23,10 +23,13 @@ jobs:
             fi
           done
 
-      - name: Upload Each ZIP as a Separate Artifact
-        run: |
-          for zipfile in *.zip; do
-            gh run upload-artifact --name "${zipfile%.zip}" --path "$zipfile"
-          done
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Upload Each ZIP Separately
+        uses: actions/upload-artifact@v4
+        with:
+          name: zipped-${{ matrix.dir }}
+          path: ${{ matrix.dir }}.zip
+
+    strategy:
+      matrix:
+        dir: 
+          - $(ls -d */ | sed 's#/##')  # List directories dynamically
