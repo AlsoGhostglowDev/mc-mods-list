@@ -1,4 +1,4 @@
-name: Zip Each Directories
+name: Zip Each Directory Separately
 
 on: 
   push:
@@ -23,8 +23,10 @@ jobs:
             fi
           done
 
-      - name: Upload ZIPs as Artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: zipped-directories
-          path: "*.zip"
+      - name: Upload Each ZIP as a Separate Artifact
+        run: |
+          for zipfile in *.zip; do
+            gh run upload-artifact --name "${zipfile%.zip}" --path "$zipfile"
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
