@@ -3,8 +3,8 @@ name: Zip Each Directory Separately
 on: 
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main  # or master, adjust as needed
+  workflow_dispatch:  # Allows manual triggering
 
 jobs:
   zip-directories:
@@ -23,13 +23,13 @@ jobs:
             fi
           done
 
-      - name: Upload Each ZIP Separately
-        uses: actions/upload-artifact@v4
-        with:
-          name: zipped-${{ matrix.dir }}
-          path: ${{ matrix.dir }}.zip
+      - name: Upload ZIP files as separate artifacts
+        run: |
+          for zipfile in *.zip; do
+            echo "Uploading $zipfile"
+            # Upload each zip file as a separate artifact
+            gh release upload ${{ github.ref }} "$zipfile" --clobber
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-    strategy:
-      matrix:
-        dir: 
-          - $(ls -d */ | sed 's#/##')  # List directories dynamically
