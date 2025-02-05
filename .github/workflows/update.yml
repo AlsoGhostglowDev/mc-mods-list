@@ -24,15 +24,7 @@ jobs:
           done
 
       - name: Upload each ZIP as a separate artifact
-        shell: bash
-        run: |
-          for zipfile in *.zip; do
-            artifact_name="${zipfile%.zip}"  # Remove .zip extension for artifact name
-            echo "Uploading $zipfile as $artifact_name"
-            gh api repos/${{ github.repository }}/actions/artifacts \
-              --method POST \
-              --field name="$artifact_name" \
-              --field path="$zipfile"
-          done
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: Each-Zip
+          path: "*.zip"
