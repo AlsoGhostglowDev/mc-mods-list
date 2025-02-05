@@ -33,14 +33,13 @@ jobs:
           
           if [ "$EXISTING_RELEASE" != "\"$TAG_NAME\"" ]; then
             # Create a new release if it doesn't exist
-            gh release create "$TAG_NAME" --title "$RELEASE_NAME" --notes "Automated release created by GitHub Actions"
+            gh release create "$TAG_NAME" --title "$RELEASE_NAME" --notes "Automated release created by GitHub Actions" --token ${{ secrets.GITHUB_TOKEN }}
           fi
 
       - name: Upload ZIP files as separate artifacts
         run: |
           for zipfile in *.zip; do
             echo "Uploading $zipfile"
-            gh release upload "$TAG_NAME" "$zipfile" --clobber
-          done
+            gh release upload "$TAG_NAME" "$zipfile" --clobber --token ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
