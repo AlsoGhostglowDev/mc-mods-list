@@ -48,3 +48,5 @@ jobs:
           for zipfile in *.zip; do
             echo "Uploading $zipfile"
             gh release upload "$TAG_NAME" "$zipfile" --clobber
+          done  # Ensure the 'done' keyword is here to properly close the loop
+
