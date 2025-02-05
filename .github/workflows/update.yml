@@ -19,12 +19,22 @@ jobs:
           shopt -s dotglob  # Include hidden files
           for dir in */; do
             if [ -d "$dir" ]; then  # Ensure it's a directory
-              zip -r "${dir%/}.zip" "$dir" -x "$dir.git/*"  # Exclude .git directory
+              zip -r "${dir%/}.zip" "$dir" -x "$dir/.git/*"  # Exclude .git directory
             fi
           done
 
       - name: Upload each ZIP as a separate artifact
         uses: actions/upload-artifact@v4
         with:
+          name: all-zips
           path: "*.zip"
-          if-no-files-found: error  # Fail the job if no ZIPs are found
+
+      - name: Upload each ZIP individually
+        run: |
+          for zipfile in *.zip; do
+            artifact_name="${zipfile%.zip}"  # Remove .zip extension for artifact name
+            echo "Uploading $zipfile as $artifact_name"
+            gh actions upload-artifact --name "$artifact_name" --path "$zipfile"
+          done
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
