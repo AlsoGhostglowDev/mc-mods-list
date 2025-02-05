@@ -1,0 +1,27 @@
+name: Zip Updates
+
+on: 
+  push:
+    branches:
+      - main  # Change this if needed
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  zip-directories:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create ZIP files for each directory
+        run: |
+          for dir in */ ; do
+            zip -r "${dir%/}.zip" "$dir"
+          done
+
+      - name: Upload ZIPs as Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: zipped-directories
+          path: "*.zip"
