@@ -6,10 +6,6 @@ on:
       - main  # or master, adjust as needed
   workflow_dispatch:  # Allows manual triggering
 
-permissions:
-  contents: write  # Required to upload artifacts (ZIP files)
-  releases: write  # Added explicit permission for creating/releases
-
 jobs:
   zip-directories:
     runs-on: ubuntu-latest
