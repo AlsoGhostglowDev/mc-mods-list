@@ -1,9 +1,9 @@
-name: Zip Updates
+name: Zip Each Directories
 
 on: 
   push:
     branches:
-      - main  # Change this if needed
+      - main  # Adjust if needed
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
@@ -14,10 +14,13 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create ZIP files for each directory
+      - name: Create ZIP files for each directory (excluding files)
         run: |
-          for dir in */ ; do
-            zip -r "${dir%/}.zip" "$dir"
+          shopt -s dotglob  # Include hidden files
+          for dir in */; do
+            if [ -d "$dir" ]; then  # Ensure it's a directory
+              zip -r "${dir%/}.zip" "$dir"
+            fi
           done
 
       - name: Upload ZIPs as Artifacts
