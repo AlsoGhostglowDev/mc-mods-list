@@ -14,22 +14,33 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Create ZIP files for each directory
+      - name: Create ZIP files for each directory (excluding .git)
         run: |
           shopt -s dotglob  # Include hidden files
           for dir in */; do
             if [ -d "$dir" ]; then  # Ensure it's a directory
-              zip -r "${dir%/}.zip" "$dir"
+              zip -r "${dir%/}.zip" "$dir" -x "$dir.git/*"  # Exclude .git directory
             fi
           done
+
+      - name: Create GitHub Release if not exists
+        run: |
+          RELEASE_NAME="Release $(date +'%Y-%m-%d_%H-%M-%S')"
+          TAG_NAME="v$(date +'%Y-%m-%d_%H-%M-%S')"  # You can modify this to follow your versioning style
+          
+          # Check if a release already exists
+          EXISTING_RELEASE=$(gh release view "$TAG_NAME" --json name --jq .name)
+          
+          if [ "$EXISTING_RELEASE" != "\"$TAG_NAME\"" ]; then
+            # Create a new release if it doesn't exist
+            gh release create "$TAG_NAME" --title "$RELEASE_NAME" --notes "Automated release created by GitHub Actions"
+          fi
 
       - name: Upload ZIP files as separate artifacts
         run: |
           for zipfile in *.zip; do
             echo "Uploading $zipfile"
-            # Upload each zip file as a separate artifact
-            gh release upload ${{ github.ref }} "$zipfile" --clobber
+            gh release upload "$TAG_NAME" "$zipfile" --clobber
           done
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
