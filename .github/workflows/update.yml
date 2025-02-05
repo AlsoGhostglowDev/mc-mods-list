@@ -3,8 +3,8 @@ name: Zip Each Directory Separately
 on: 
   push:
     branches:
-      - main  # or master, adjust as needed
-  workflow_dispatch:  # Allows manual triggering
+      - main
+  workflow_dispatch:
 
 jobs:
   zip-directories:
@@ -23,9 +23,14 @@ jobs:
             fi
           done
 
-      - name: Upload ZIP files as artifacts
+      - name: Upload each ZIP as a separate artifact
         uses: actions/upload-artifact@v4
         with:
-          name: zipped-directories
-          path: "*.zip"
-          retention-days: 7  # Set how long artifacts are stored (adjust as needed)
+          name: ${{ matrix.zipfile }}
+          path: ${{ matrix.zipfile }}
+        strategy:
+          matrix:
+            zipfile: ${{ steps.create_zip.outputs.zipfiles }}
+    
+      - name: List Uploaded Artifacts
+        run: ls -l *.zip
