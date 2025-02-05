@@ -23,29 +23,9 @@ jobs:
             fi
           done
 
-      - name: Create GitHub Release if not exists
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for GitHub CLI
-        run: |
-          RELEASE_NAME="Release $(date +'%Y-%m-%d_%H-%M-%S')"
-          TAG_NAME="v$(date +'%Y-%m-%d_%H-%M-%S')"  # You can modify this to follow your versioning style
-          
-          # Check if the release exists
-          EXISTING_RELEASE=$(gh release view "$TAG_NAME" --json name --jq .name || echo "not found")
-          
-          if [ "$EXISTING_RELEASE" == "not found" ]; then
-            # Create a new release if it doesn't exist
-            echo "Creating new release..."
-            gh release create "$TAG_NAME" --title "$RELEASE_NAME" --notes "Automated release created by GitHub Actions"
-          else
-            echo "Release $TAG_NAME already exists."
-          fi
-
-      - name: Upload ZIP files as separate artifacts
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for GitHub CLI
-        run: |
-          for zipfile in *.zip; do
-            echo "Uploading $zipfile"
-            gh release upload "$TAG_NAME" "$zipfile" --clobber
-          done  # Ensure proper loop closure
+      - name: Upload ZIP files as artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: zipped-directories
+          path: "*.zip"
+          retention-days: 7  # Set how long artifacts are stored (adjust as needed)
