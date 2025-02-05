@@ -33,7 +33,10 @@ jobs:
           
           if [ "$EXISTING_RELEASE" != "\"$TAG_NAME\"" ]; then
             # Create a new release if it doesn't exist
+            echo "Creating new release..."
             gh release create "$TAG_NAME" --title "$RELEASE_NAME" --notes "Automated release created by GitHub Actions" --token ${{ secrets.GITHUB_TOKEN }}
+          else
+            echo "Release $TAG_NAME already exists."
           fi
 
       - name: Upload ZIP files as separate artifacts
