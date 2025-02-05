@@ -8,7 +8,7 @@ on:
 
 jobs:
   zip:
-    name: Create ZIP files
+    name: Create ZIP Files
     runs-on: ubuntu-latest
     outputs:
       zip_files: ${{ steps.collect.outputs.zip_files }}
@@ -18,7 +18,7 @@ jobs:
 
       - name: Create ZIP files for each directory (excluding .git)
         run: |
-          # Include hidden files (if any) in globbing
+          # Enable globbing of dotfiles if needed
           shopt -s dotglob
           for dir in */; do
             if [ -d "$dir" ]; then
@@ -27,26 +27,38 @@ jobs:
             fi
           done
 
-      - name: List and collect ZIP files
+      - name: Upload created ZIP files for later retrieval
+        uses: actions/upload-artifact@v4
+        with:
+          name: zips
+          path: "*.zip"
+
+      - name: List and collect ZIP filenames
         id: collect
         run: |
           echo "Found ZIP files:"
           ls -1 *.zip
-          # Create a JSON array of zip filenames
+          # Create a JSON array of zip filenames (e.g., ["dir1.zip","dir2.zip",...])
           zip_files=$(ls -1 *.zip | jq -R -s -c 'split("\n") | map(select(length > 0))')
-          echo "zip_files=$zip_files" >> "$GITHUB_OUTPUT"
-          echo "::set-output name=zip_files::$zip_files"
-        # (jq is available on ubuntu-latest by default)
+          echo "ZIP files JSON: $zip_files"
+          # Set the output using the new recommended method:
+          echo "zip_files=$zip_files" >> $GITHUB_OUTPUT
 
   upload:
-    name: Upload ZIP artifacts
-    needs: zip
+    name: Upload Each ZIP as Its Own Artifact
     runs-on: ubuntu-latest
+    needs: zip
     strategy:
       matrix:
         zip_file: ${{ fromJson(needs.zip.outputs.zip_files) }}
     steps:
-      - name: Upload artifact for ${{ matrix.zip_file }}
+      - name: Download all ZIP files artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: zips
+          path: .
+
+      - name: Upload individual artifact for ${{ matrix.zip_file }}
         uses: actions/upload-artifact@v4
         with:
           name: ${{ matrix.zip_file }}
