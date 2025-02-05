@@ -25,7 +25,7 @@ jobs:
 
       - name: Create GitHub Release if not exists
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Define the token for the GitHub CLI
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for GitHub CLI
         run: |
           RELEASE_NAME="Release $(date +'%Y-%m-%d_%H-%M-%S')"
           TAG_NAME="v$(date +'%Y-%m-%d_%H-%M-%S')"  # You can modify this to follow your versioning style
@@ -43,7 +43,7 @@ jobs:
 
       - name: Upload ZIP files as separate artifacts
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Define the token for the GitHub CLI
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for GitHub CLI
         run: |
           for zipfile in *.zip; do
             echo "Uploading $zipfile"
