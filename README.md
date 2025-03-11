@@ -2,8 +2,8 @@
 a modpack full of mods that I enjoy and find interest in
 
 ## Modpacks:
-- create *(Inactive)*
-- create-fabric **(Active)**
+- create **(Active)** <sub>(Ghost's Survival Create S3)</sub>
+- create-fabric *(Inactive)*
 - tanks *(Inactive)*
 - warfare-event **(Event Only)**
 
