@@ -165,7 +165,7 @@ Only happens when there's alot of mods updates going through the same day
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Forge (47.3.12) <br> 
-<sup>*Last updated at `10/3/2025 18:35 (GMT+8)`*</sup>
+<sup>*Last updated at `12/3/2025 21:19 (GMT+8)`*</sup>
 
 ### Mods:
 ### Main
@@ -187,9 +187,6 @@ Only happens when there's alot of mods updates going through the same day
 - [**Applied Energetics 2**](https://cdn.modrinth.com/data/XxWD5pD3/versions/JSY0V9J5/appliedenergistics2-forge-15.3.3.jar) (15.3.3)
 - [**ComputerCraft: Tweaked**](https://cdn.modrinth.com/data/gu7yAYhd/versions/rMtScs9u/cc-tweaked-1.20.1-forge-1.115.0.jar) (1.115.0)
   > - [**Advanced Peripherals**](https://cdn.modrinth.com/data/SOw6jD6x/versions/n4Npq89k/AdvancedPeripherals-1.20.1-0.7.41r.jar) (0.7.41r)
-- [**Mekanism**](https://cdn.modrinth.com/data/Ce6I4WUE/versions/9iboPfea/Mekanism-1.20.1-10.4.15.75.jar) (10.4.15.75)
-  > - [**Mekanism Generators**](https://cdn.modrinth.com/data/OFVYKsAk/versions/x9re7wt4/MekanismGenerators-1.20.1-10.4.15.75.jar) (10.4.15.75)
-  > - [**Mekanism Tools**](https://cdn.modrinth.com/data/tqQpq1lt/versions/om9yGZAE/MekanismTools-1.20.1-10.4.15.75.jar) (10.4.15.75)
 - [**Ars Nouveau**](https://mediafilez.forgecdn.net/files/5894/609/ars_nouveau-1.20.1-4.12.6-all.jar) (4.12.6)
 - [**Farmer's Delight**](https://cdn.modrinth.com/data/R2OftAxM/versions/NcRp00OO/FarmersDelight-1.20.1-1.2.7.jar) (1.2.7)
   > - [**Delightful**](https://cdn.modrinth.com/data/JtSnhtNJ/versions/emlcyGrq/Delightful-1.20.1-3.7.1.jar) (3.7.1)
@@ -230,7 +227,6 @@ Only happens when there's alot of mods updates going through the same day
 - [**Oculus Flywheel Compat**](https://cdn.modrinth.com/data/ndHYMY2K/versions/j26FjsSe/oculus-flywheel-compat-forge1.20.1%2B1.1.4.jar) (1.1.4) <sub>(Oculus ⇔ Create)</sub>
 - [**Simple Discord Link**](https://cdn.modrinth.com/data/Sh0YauEf/versions/gXgTfzl5/SimpleDiscordLink-Universal-3.2.3.jar) (3.2.3) <sub>(Discord ⇔ Minecraft)</sub>
 - [**Patchouli**](https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar) (84.1.0) <sub>(Guidebook ; Alex's Mobs, Palladin's Furniture, etc.)</sub>
-- [**Mekanism X Create: Northstar**](https://cdn.modrinth.com/data/5kBJRF84/versions/umlZx0W4/mek_x_star-1.20.1-1.2.0.jar) (1.2.0) <sub>(Mekanism ⇔ Create: Northstar)</sub>
 
 **Dependency Libs**:
 - [**Moonlight Lib**](https://cdn.modrinth.com/data/twkfQtEc/versions/z4VYWtIk/moonlight-1.20-2.13.71-forge.jar) (2.13.17) <sub>(Supplementaries & Amendments)</sub>
@@ -303,5 +299,4 @@ Only happens when there's alot of mods updates going through the same day
 - [**ImmediatelyFast**](https://cdn.modrinth.com/data/5ZwdcRci/versions/lLRqAhrD/ImmediatelyFast-Forge-1.3.6%2B1.20.4.jar) (1.3.6)
 - [**Distant Horizons**](https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar) (2.2.1a)
 - [**Fastload**](https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar) (3.4.0)
-- [**Exordium**](https://cdn.modrinth.com/data/DynYZEae/versions/FINmaZaw/exordium-forge-1.2.1-mc1.20.1.jar) (1.2.1)
 - [**Particle Core**](https://cdn.modrinth.com/data/RSeLon5O/versions/2pgXWmty/particle_core-0.2.5%2B1.20.1%2Bforge.jar) (0.2.5)
