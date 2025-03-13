@@ -165,7 +165,7 @@ Only happens when there's alot of mods updates going through the same day
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Forge (47.3.12) <br> 
-<sup>*Last updated at `12/3/2025 21:19 (GMT+8)`*</sup>
+<sup>*Last updated at `13/3/2025 15:54 (GMT+8)`*</sup>
 
 ### Mods:
 ### Main
@@ -273,6 +273,7 @@ Only happens when there's alot of mods updates going through the same day
 - [**EMI**](https://cdn.modrinth.com/data/fRiHVvU7/versions/3fJ5PcgX/emi-1.1.20%2B1.20.1%2Bforge.jar) (1.1.20)
 - [**JustZoom**](https://cdn.modrinth.com/data/iAiqcykM/versions/YGC6k663/justzoom_forge_2.0.0_MC_1.20.1.jar) (2.0.0)
 - [**Shulker Tooltip**](https://cdn.modrinth.com/data/2M01OLQq/versions/QMp2SF1u/shulkerboxtooltip-forge-4.0.4%2B1.20.1.jar) (4.0.4)
+- [**Mouse Tweaks**](https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar) (2.25.1)
 
 ### World Generation
 - [**Terralith**](https://cdn.modrinth.com/data/8oi3bsk5/versions/WeYhEb5d/Terralith_1.20.x_v2.5.4.jar) (2.5.4) <sub>(Server-side, Optional)</sub>
@@ -297,6 +298,6 @@ Only happens when there's alot of mods updates going through the same day
 - [**Spark**](https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-forge.jar) (1.10.53)
 - [~~Starlight~~](https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar) (1.1.2) <sub>(Incompatible with AE2's Guide, not included in the modpack by default)</sub>
 - [**ImmediatelyFast**](https://cdn.modrinth.com/data/5ZwdcRci/versions/lLRqAhrD/ImmediatelyFast-Forge-1.3.6%2B1.20.4.jar) (1.3.6)
-- [**Distant Horizons**](https://cdn.modrinth.com/data/uCdwusMi/versions/20nF6i21/DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar) (2.2.1a)
+- [**Distant Horizons**](https://cdn.modrinth.com/data/uCdwusMi/versions/nVT5sVYS/DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar) (2.3.0b)
 - [**Fastload**](https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar) (3.4.0)
 - [**Particle Core**](https://cdn.modrinth.com/data/RSeLon5O/versions/2pgXWmty/particle_core-0.2.5%2B1.20.1%2Bforge.jar) (0.2.5)
