@@ -1,12 +1,98 @@
 # Mods List
 ### Information
-The red star ($${\color{red}\*}$$) indicates it's just been added recently.
-while the orange star ($${\color{orange}\*}$$) indicates it's been added recently yesterday.<br>
+The red square (🟥) indicates it's just been added recently.
+while the orange square (🟧) indicates it's been added recently yesterday.<br>
 Only happens when there's alot of mods updates going through the same day 
 
 ---
 
-## /create-fabric
+## /create
+### Information
+**Minecraft Version:** 1.20.1 <br>
+**Platform:** Forge (47.3.12) <br> 
+<sup>*Last updated at `13/3/2025 15:54 (GMT+8)`*</sup>
+
+### Mods:
+### Main
+- [**Create**](https://cdn.modrinth.com/data/LNytGWDc/versions/9df9xn5Z/create-1.20.1-0.5.1.i.jar) (0.5.1.i)
+  > - [**Destroy**](https://cdn.modrinth.com/data/uY7EYHum/versions/yRsxzGji/destroy-1.20.1-0.1.0-snapshot-16.jar) (0.1.0 Snapshot 16)
+  > - [**Create: New Age**](https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar) (1.1.2)
+  > - [**Create: Crafts & Additions**](https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar) (1.2.5)
+  > - [**Create: Power Loader**](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar) (1.5.0)
+  > - [**Create: Steam n' Rails**](https://cdn.modrinth.com/data/ZzjhlDgM/versions/PXQDVNfK/Steam_Rails-1.6.6%2Bforge-mc1.20.1.jar) (1.6.6)
+  > - [**Create: Enchantment Industry**](https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar) (1.2.9d)
+  > - [**Create: Jetpack**](https://cdn.modrinth.com/data/UbFnAd4l/versions/o1ol26WC/create_jetpack-forge-4.3.2.jar) (4.3.2)
+    >   - [**Create: Jetpack Curios Support**](https://cdn.modrinth.com/data/BBhCMftF/versions/MmHHKvju/create_jetpack_curios-1.2.0-forge-1.20.1.jar) (1.2.0)
+  > - [**Create: Northstar**](https://cdn.modrinth.com/data/XuHYu7cF/versions/VE7xSKd3/northstar-0.1cb-1.20.1.jar) (0.1cb)
+  > - [**Create: Copycats**](https://cdn.modrinth.com/data/UT2M39wf/versions/DAn2YIli/copycats-2.2.0%2Bmc.1.20.1-forge.jar) (2.2.0)
+  > - [**Create: Deco**](https://cdn.modrinth.com/data/sMvUb4Rb/versions/lcpO5tBr/createdeco-2.0.2-1.20.1-forge.jar) (2.0.2)
+  > - [**Create: Connected**](https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar) (0.9.4)
+  > - [**Create: Structures**](https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar) (0.1.1) <sub>(Server-side, Optional)</sub>
+  > - [**Create: Cobblestone**](https://cdn.modrinth.com/data/ihpnEd80/versions/cCNm5Qq4/createcobblestone-1.4.4-beta-2%2Bforge-1.20.1-91.jar) (1.4.4b)
+- [**Applied Energetics 2**](https://cdn.modrinth.com/data/XxWD5pD3/versions/JSY0V9J5/appliedenergistics2-forge-15.3.3.jar) (15.3.3)
+- [**ComputerCraft: Tweaked**](https://cdn.modrinth.com/data/gu7yAYhd/versions/rMtScs9u/cc-tweaked-1.20.1-forge-1.115.0.jar) (1.115.0)
+  > - [**Advanced Peripherals**](https://cdn.modrinth.com/data/SOw6jD6x/versions/n4Npq89k/AdvancedPeripherals-1.20.1-0.7.41r.jar) (0.7.41r)
+- [**Ars Nouveau**](https://mediafilez.forgecdn.net/files/5894/609/ars_nouveau-1.20.1-4.12.6-all.jar) (4.12.6)
+- [**Farmer's Delight**](https://cdn.modrinth.com/data/R2OftAxM/versions/NcRp00OO/FarmersDelight-1.20.1-1.2.7.jar) (1.2.7)
+  > - [**Delightful**](https://cdn.modrinth.com/data/JtSnhtNJ/versions/emlcyGrq/Delightful-1.20.1-3.7.1.jar) (3.7.1)
+  > - [**Delightful Sandwiches**](https://cdn.modrinth.com/data/wmyqU46J/versions/HlzAnItm/delightfulsandwich-1.20.1.jar) (1.0)
+  > - [**Delightful Burgers**](https://cdn.modrinth.com/data/AqHNT5iP/versions/yzohW55x/delightfulburgers-1.20.1.jar) (1.0)
+  > - [**Ocean's Delight**](https://cdn.modrinth.com/data/DGiq4ZSW/versions/9jLLNENb/oceansdelight-1.0.2-1.20.jar) (1.0.2)
+  > - [**End's Delight**](https://cdn.modrinth.com/data/yHN0njMr/versions/GNLxPpR2/ends_delight-2.5.1%2Bforge.1.20.1.jar) (2.5.1)
+  > - [**Nether's Delight**](https://cdn.modrinth.com/data/Vv0RM7WN/versions/MTDQhZd2/nethersdelight-1.20.1-4.0.jar) (4.0)
+  > - [**More Delight**](https://cdn.modrinth.com/data/znHQQtuU/versions/OtiZiaTq/moredelight-25.01.13-1.20-forge.jar) (25.01.13)
+  > - [**Abnormal's Delight**](https://cdn.modrinth.com/data/ts3qjo5t/versions/3c1omiun/abnormals_delight-1.20.1-5.0.0.jar) (5.0.0)
+  > - [**Miner's Delight**](https://cdn.modrinth.com/data/qMxbM4BQ/versions/loZ09szX/miners_delight-1.20.1-1.2.3.jar) (1.2.3)
+  > - 🟥 [**Some Assembly Required**](https://cdn.modrinth.com/data/jZi8ogTA/versions/pAZObJ4k/some-assembly-required-1.20.1-4.2.0.jar) (4.2.0)
+- [**Alex's Mobs**](https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar) (1.22.9)
+
+### Funsies (Deco/Building/Accessories)
+- [**Decorative Blocks**](https://cdn.modrinth.com/data/t6BIRVZn/versions/nGmyeiug/decorative_blocks-forge-1.20.1-4.1.3.jar) (4.1.3)
+- [**Chipped**](https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar) (3.0.7)
+- [**Amendments**](https://cdn.modrinth.com/data/6iTJugQR/versions/luR9kOmm/amendments-1.20-1.2.19.jar) (1.2.19)
+- [**Supplementaries**](https://cdn.modrinth.com/data/fFEIiSDQ/versions/S4IygZ9g/supplementaries-1.20-3.1.18.jar) (3.1.18)
+- [**Another Furniture**](https://cdn.modrinth.com/data/ulloLmqG/versions/cmWbslFO/another_furniture-forge-1.20.1-3.0.1.jar) (3.0.1)
+- [**FramedBlocks**](https://cdn.modrinth.com/data/wbgfS34j/versions/ZqA1adIm/FramedBlocks-9.3.1.jar) (9.3.1)
+
+### Compatibility / Balance / Integration / Dependency Libs
+**Compatibility / Integration**:
+- [**Ars Creo**](https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar) (4.1.0) <sub>(Ars Nouveau ⇔ Create)</sub>
+- [**Ars Énergistique**](https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar) (1.2.0) <sub>(Ars Nouveau ⇔ Applied Energetics 2)</sub>
+- [**CC:C Bridge**](https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forge-1.6.3.jar) (1.6.3) <sub>(CC: Tweaked ⇔ Create)</sub>
+- [**Create: Slice & Dice**](https://cdn.modrinth.com/data/GmjmRQ0A/versions/bKH5nqMk/sliceanddice-forge-3.3.0.jar) (3.3.0) <sub>(Farmer's Delight ⇔ Create)</sub>
+- [**Create: Central Kitchen**](https://cdn.modrinth.com/data/btq68HMO/versions/MX3EE060/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar) (1.3.12) <sub>(Farmer's Delight ⇔ Create)</sub>
+- [**Create Contraption Terminals**](https://cdn.modrinth.com/data/gOPAFzp0/versions/M97nvTmo/createcontraptionterminals-1.20-1.1.0.jar) (1.1.0) <sub>(Tom's Simple Storage ⇔ Create)</sub>
+- [**CTOV - Create: Structures**](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar) (1.0) <sub>(CTOV ⇔ Create: Structures) (Server-side, Datapack, not needed)</sub>
+- **Terralith Re:Stoned** (1.1) <sub>(Terralith ⇔ Create) (Server-side, Datapack, not needed)</sub>
+- [**Oculus Flywheel Compat**](https://cdn.modrinth.com/data/ndHYMY2K/versions/j26FjsSe/oculus-flywheel-compat-forge1.20.1%2B1.1.4.jar) (1.1.4) <sub>(Oculus ⇔ Create)</sub>
+- [**Simple Discord Link**](https://cdn.modrinth.com/data/Sh0YauEf/versions/gXgTfzl5/SimpleDiscordLink-Universal-3.2.3.jar) (3.2.3) <sub>(Discord ⇔ Minecraft)</sub>
+- [**Patchouli**](https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar) (84.1.0) <sub>(Guidebook ; Alex's Mobs, Palladin's Furniture, etc.)</sub>
+
+**Dependency Libs**:
+- [**Moonlight Lib**](https://cdn.modrinth.com/data/twkfQtEc/versions/z4VYWtIk/moonlight-1.20-2.13.71-forge.jar) (2.13.17) <sub>(Supplementaries & Amendments)</sub>
+- [**Sophisticated Core**](https://cdn.modrinth.com/data/nmoqTijg/versions/MqGbm8NG/sophisticatedcore-1.20.1-1.2.22.901.jar) (1.2.22.901) <sub>(Sophisticated Backpacks & Storage)</sub>
+- [**FTB Library**](https://mediafilez.forgecdn.net/files/6164/53/ftb-library-forge-2001.2.9.jar) (2001.2.9) <sub>(FTB Ultimine)</sub>
+- [**Botarium**](https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar) (2.3.4)
+- [**Kotlin for Forge**](https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar) (4.11.0)
+- [**Geckolib**](https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar) (4.7.0)
+- [**Blueprint**](https://cdn.modrinth.com/data/VsM5EDoI/versions/z4m8zvm5/blueprint-1.20.1-7.1.2.jar) (7.1.2) <sub>(Abnormal's Delight)</sub>
+- [**Citadel**](https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar) (2.6.1) <sub>(Alex's Mobs)</sub>
+- [**Resourceful Lib**](https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar) (2.1.29) <sub>(Chipped)</sub>
+- [**Lithostitched**](https://cdn.modrinth.com/data/XaDC71GB/versions/4ooXso77/lithostitched-forge-1.20.1-1.4.4.jar) (1.4.4)
+- [**Architectury API**](https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar) (9.2.14)
+- [**CraterLib**](https://cdn.modrinth.com/data/Nn8Wasaq/versions/1nFU5ee8/CraterLib-Forge-1.20-2.1.3.jar) (2.1.3) <sub>(Simple Discord Link)</sub>
+- [**MonoLib**](https://cdn.modrinth.com/data/9leXt4A5/versions/UCIHOC9y/monolib-forge-1.20.1-2.0.0.jar) (2.0.0) <sub>(Disenchanting Table)</sub>
+- [**Konkrete**](https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar) (1.8.0) <sub>(JustZoom)</sub>
+- [**Cristel Lib**](https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar) (1.1.6) <sub>(Terralith)</sub>
+- [**Cloth Config API**](https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar) (11.1.136)
+- [**Fzzy Config**](https://cdn.modrinth.com/data/hYykXjDp/versions/6FpN9Bn7/fzzy_config-0.6.5-fix1%2B1.20.1%2Bforge.jar) (0.6.5f) <sub>(Particle Core)</sub>
+- [**Midnight Lib**](https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar) (1.4.2) <sub>(Cull Leaves)</sub>
+- [**Athena**](https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar) (3.1.2) <sub>(Chipped)</sub>
+- [**Petrolpark's Lib**](https://cdn.modrinth.com/data/ik2WZkTZ/versions/71Mw5ZWY/petrolpark-1.20.1-1.4.1-all.jar) (1.4.1) <sub>(Destroy (Create Addon))</sub>
+
+---
+
+## /create-fabric (Inactive)
 ### Information
 **Minecraft Version:** 1.20.1 <br>
 **Platform:** Fabric (0.16.9) <br> 
@@ -64,9 +150,9 @@ Only happens when there's alot of mods updates going through the same day
 - [**ReFramed** (1.6.6)](https://cdn.modrinth.com/data/jCpoCBpn/versions/qUajV4uc/ReFramed-1.6.6.jar)
 - [**FeedTheBeast/FTB Ultimine** (2001.1.5)](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric/download/5363344)
 - [**FeedTheBeast/FTB Library** (2001.2.7)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/download/6016762)
-- $${\color{orange}\*}$$ [**FeedTheBeast/FTB Quests** (2001.4.10)](https://mediafilez.forgecdn.net/files/6133/439/ftb-quests-fabric-2001.4.10.jar)
-- $${\color{orange}\*}$$ [**FeedTheBeast/FTB Chunks** (2001.3.4)](https://mediafilez.forgecdn.net/files/5956/389/ftb-chunks-fabric-2001.3.4.jar)
-- $${\color{orange}\*}$$ [**FeedTheBeast/FTB Teams** (2001.3.1)](https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar)
+- [**FeedTheBeast/FTB Quests** (2001.4.10)](https://mediafilez.forgecdn.net/files/6133/439/ftb-quests-fabric-2001.4.10.jar)
+- [**FeedTheBeast/FTB Chunks** (2001.3.4)](https://mediafilez.forgecdn.net/files/5956/389/ftb-chunks-fabric-2001.3.4.jar)
+- [**FeedTheBeast/FTB Teams** (2001.3.1)](https://mediafilez.forgecdn.net/files/6130/783/ftb-teams-fabric-2001.3.1.jar)
 - [**GeckoLib** (4.7)](https://cdn.modrinth.com/data/8BmcQJ2H/versions/DAY9559u/geckolib-fabric-1.20.1-4.7.jar)
 - [**Jade** (11.12.0)](https://cdn.modrinth.com/data/nvQzSEkH/versions/Lvyx1o7I/Jade-1.20-Fabric-11.12.0.jar)
 - [**Jade Addons** (5.4.0)](https://cdn.modrinth.com/data/fThnVRli/versions/DSkzT8Ma/JadeAddons-1.20.1-Fabric-5.4.0.jar)
@@ -157,98 +243,9 @@ Only happens when there's alot of mods updates going through the same day
 - [**BetterBeds** (1.3.0)](https://cdn.modrinth.com/data/kKwy3HU9/versions/oA7DgMo2/betterbeds-1.3.0-1.19.3.jar)
 - [**ParticleCore** (0.2.5)](https://cdn.modrinth.com/data/RSeLon5O/versions/ryjPL8AJ/particle_core-0.2.5%2B1.20.1.jar)
 - [**Zoomify** (2.14.2)](https://cdn.modrinth.com/data/w7ThoJFB/versions/RW06GEHk/Zoomify-2.14.2%2B1.20.1.jar)
-- $${\color{red}*}$$ [**Brute Force Rendering Culling** (0.5.12)](https://cdn.modrinth.com/data/2wFaq89h/versions/F6dedvxg/BruteForceRenderingCulling-fabric-1.20.1-0.5.12.jar)
+- [**Brute Force Rendering Culling** (0.5.12)](https://cdn.modrinth.com/data/2wFaq89h/versions/F6dedvxg/BruteForceRenderingCulling-fabric-1.20.1-0.5.12.jar)
 
 ---
-
-## /create
-### Information
-**Minecraft Version:** 1.20.1 <br>
-**Platform:** Forge (47.3.12) <br> 
-<sup>*Last updated at `13/3/2025 15:54 (GMT+8)`*</sup>
-
-### Mods:
-### Main
-- [**Create**](https://cdn.modrinth.com/data/LNytGWDc/versions/9df9xn5Z/create-1.20.1-0.5.1.i.jar) (0.5.1.i)
-  > - [**Destroy**](https://cdn.modrinth.com/data/uY7EYHum/versions/yRsxzGji/destroy-1.20.1-0.1.0-snapshot-16.jar) (0.1.0 Snapshot 16)
-  > - [**Create: New Age**](https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar) (1.1.2)
-  > - [**Create: Crafts & Additions**](https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar) (1.2.5)
-  > - [**Create: Power Loader**](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar) (1.5.0)
-  > - [**Create: Steam n' Rails**](https://cdn.modrinth.com/data/ZzjhlDgM/versions/PXQDVNfK/Steam_Rails-1.6.6%2Bforge-mc1.20.1.jar) (1.6.6)
-  > - [**Create: Enchantment Industry**](https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar) (1.2.9d)
-  > - [**Create: Jetpack**](https://cdn.modrinth.com/data/UbFnAd4l/versions/o1ol26WC/create_jetpack-forge-4.3.2.jar) (4.3.2)
-    >   - [**Create: Jetpack Curios Support**](https://cdn.modrinth.com/data/BBhCMftF/versions/MmHHKvju/create_jetpack_curios-1.2.0-forge-1.20.1.jar) (1.2.0)
-  > - [**Create: Northstar**](https://cdn.modrinth.com/data/XuHYu7cF/versions/VE7xSKd3/northstar-0.1cb-1.20.1.jar) (0.1cb)
-  > - [**Create: Copycats**](https://cdn.modrinth.com/data/UT2M39wf/versions/DAn2YIli/copycats-2.2.0%2Bmc.1.20.1-forge.jar) (2.2.0)
-  > - [**Create: Deco**](https://cdn.modrinth.com/data/sMvUb4Rb/versions/lcpO5tBr/createdeco-2.0.2-1.20.1-forge.jar) (2.0.2)
-  > - [**Create: Connected**](https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar) (0.9.4)
-  > - [**Create: Structures**](https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar) (0.1.1) <sub>(Server-side, Optional)</sub>
-  > - [**Create: Cobblestone**](https://cdn.modrinth.com/data/ihpnEd80/versions/cCNm5Qq4/createcobblestone-1.4.4-beta-2%2Bforge-1.20.1-91.jar) (1.4.4b)
-- [**Applied Energetics 2**](https://cdn.modrinth.com/data/XxWD5pD3/versions/JSY0V9J5/appliedenergistics2-forge-15.3.3.jar) (15.3.3)
-- [**ComputerCraft: Tweaked**](https://cdn.modrinth.com/data/gu7yAYhd/versions/rMtScs9u/cc-tweaked-1.20.1-forge-1.115.0.jar) (1.115.0)
-  > - [**Advanced Peripherals**](https://cdn.modrinth.com/data/SOw6jD6x/versions/n4Npq89k/AdvancedPeripherals-1.20.1-0.7.41r.jar) (0.7.41r)
-- [**Ars Nouveau**](https://mediafilez.forgecdn.net/files/5894/609/ars_nouveau-1.20.1-4.12.6-all.jar) (4.12.6)
-- [**Farmer's Delight**](https://cdn.modrinth.com/data/R2OftAxM/versions/NcRp00OO/FarmersDelight-1.20.1-1.2.7.jar) (1.2.7)
-  > - [**Delightful**](https://cdn.modrinth.com/data/JtSnhtNJ/versions/emlcyGrq/Delightful-1.20.1-3.7.1.jar) (3.7.1)
-  > - [**Delightful Sandwiches**](https://cdn.modrinth.com/data/wmyqU46J/versions/HlzAnItm/delightfulsandwich-1.20.1.jar) (1.0)
-  > - [**Delightful Burgers**](https://cdn.modrinth.com/data/AqHNT5iP/versions/yzohW55x/delightfulburgers-1.20.1.jar) (1.0)
-  > - [**Ocean's Delight**](https://cdn.modrinth.com/data/DGiq4ZSW/versions/9jLLNENb/oceansdelight-1.0.2-1.20.jar) (1.0.2)
-  > - [**End's Delight**](https://cdn.modrinth.com/data/yHN0njMr/versions/GNLxPpR2/ends_delight-2.5.1%2Bforge.1.20.1.jar) (2.5.1)
-  > - [**Nether's Delight**](https://cdn.modrinth.com/data/Vv0RM7WN/versions/MTDQhZd2/nethersdelight-1.20.1-4.0.jar) (4.0)
-  > - [**More Delight**](https://cdn.modrinth.com/data/znHQQtuU/versions/OtiZiaTq/moredelight-25.01.13-1.20-forge.jar) (25.01.13)
-  > - [**Abnormal's Delight**](https://cdn.modrinth.com/data/ts3qjo5t/versions/3c1omiun/abnormals_delight-1.20.1-5.0.0.jar) (5.0.0)
-  > - [**Miner's Delight**](https://cdn.modrinth.com/data/qMxbM4BQ/versions/loZ09szX/miners_delight-1.20.1-1.2.3.jar) (1.2.3)
-- [**Alex's Mobs**](https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar) (1.22.9)
-- [**MineColonies**](https://mediafilez.forgecdn.net/files/6285/788/minecolonies-1.20.1-1.1.827-snapshot.jar) (1.1.827 Snapshot)
-  > - [**Domum Ornamentum**](https://mediafilez.forgecdn.net/files/6042/695/domum_ornamentum-1.20.1-1.0.284-snapshot-universal.jar) (1.0.284 Snapshot) 
-  > - [**MultiPiston**](https://mediafilez.forgecdn.net/files/5204/918/multipiston-1.20-1.2.43-RELEASE.jar) (1.2.43) 
-  > - [**Structurize**](https://mediafilez.forgecdn.net/files/6174/161/structurize-1.20.1-1.0.764-snapshot.jar) (1.0.764 Snapshot) 
-  > - [**TownTalk**](https://mediafilez.forgecdn.net/files/5355/511/towntalk-1.20.1-1.1.0.jar) (1.1.0) 
-  > - [**BlockUI**](https://mediafilez.forgecdn.net/files/5658/253/blockui-1.20.1-1.0.186-beta.jar) (1.0.186b) 
-
-### Funsies (Deco/Building/Accessories)
-- [**Decorative Blocks**](https://cdn.modrinth.com/data/t6BIRVZn/versions/nGmyeiug/decorative_blocks-forge-1.20.1-4.1.3.jar) (4.1.3)
-- [**Chipped**](https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar) (3.0.7)
-- [**Amendments**](https://cdn.modrinth.com/data/6iTJugQR/versions/luR9kOmm/amendments-1.20-1.2.19.jar) (1.2.19)
-- [**Supplementaries**](https://cdn.modrinth.com/data/fFEIiSDQ/versions/S4IygZ9g/supplementaries-1.20-3.1.18.jar) (3.1.18)
-- [**Another Furniture**](https://cdn.modrinth.com/data/ulloLmqG/versions/cmWbslFO/another_furniture-forge-1.20.1-3.0.1.jar) (3.0.1)
-- [**FramedBlocks**](https://cdn.modrinth.com/data/wbgfS34j/versions/ZqA1adIm/FramedBlocks-9.3.1.jar) (9.3.1)
-
-### Compatibility / Balance / Integration / Dependency Libs
-**Compatibility / Integration**:
-- [**Ars Creo**](https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar) (4.1.0) <sub>(Ars Nouveau ⇔ Create)</sub>
-- [**Ars Énergistique**](https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar) (1.2.0) <sub>(Ars Nouveau ⇔ Applied Energetics 2)</sub>
-- [**CC:C Bridge**](https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forge-1.6.3.jar) (1.6.3) <sub>(CC: Tweaked ⇔ Create)</sub>
-- [**Create: Slice & Dice**](https://cdn.modrinth.com/data/GmjmRQ0A/versions/bKH5nqMk/sliceanddice-forge-3.3.0.jar) (3.3.0) <sub>(Farmer's Delight ⇔ Create)</sub>
-- [**Create: Central Kitchen**](https://cdn.modrinth.com/data/btq68HMO/versions/MX3EE060/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar) (1.3.12) <sub>(Farmer's Delight ⇔ Create)</sub>
-- [**Create Contraption Terminals**](https://cdn.modrinth.com/data/gOPAFzp0/versions/M97nvTmo/createcontraptionterminals-1.20-1.1.0.jar) (1.1.0) <sub>(Tom's Simple Storage ⇔ Create)</sub>
-- [**CTOV - Create: Structures**](https://cdn.modrinth.com/data/l9fldtN4/versions/hwClzDIs/ctov-create-structures-1.0.jar) (1.0) <sub>(CTOV ⇔ Create: Structures) (Server-side, Datapack, not needed)</sub>
-- **Terralith Re:Stoned** (1.1) <sub>(Terralith ⇔ Create) (Server-side, Datapack, not needed)</sub>
-- [**Oculus Flywheel Compat**](https://cdn.modrinth.com/data/ndHYMY2K/versions/j26FjsSe/oculus-flywheel-compat-forge1.20.1%2B1.1.4.jar) (1.1.4) <sub>(Oculus ⇔ Create)</sub>
-- [**Simple Discord Link**](https://cdn.modrinth.com/data/Sh0YauEf/versions/gXgTfzl5/SimpleDiscordLink-Universal-3.2.3.jar) (3.2.3) <sub>(Discord ⇔ Minecraft)</sub>
-- [**Patchouli**](https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1-84.1-FORGE.jar) (84.1.0) <sub>(Guidebook ; Alex's Mobs, Palladin's Furniture, etc.)</sub>
-
-**Dependency Libs**:
-- [**Moonlight Lib**](https://cdn.modrinth.com/data/twkfQtEc/versions/z4VYWtIk/moonlight-1.20-2.13.71-forge.jar) (2.13.17) <sub>(Supplementaries & Amendments)</sub>
-- [**Sophisticated Core**](https://cdn.modrinth.com/data/nmoqTijg/versions/MqGbm8NG/sophisticatedcore-1.20.1-1.2.22.901.jar) (1.2.22.901) <sub>(Sophisticated Backpacks & Storage)</sub>
-- [**FTB Library**](https://mediafilez.forgecdn.net/files/6164/53/ftb-library-forge-2001.2.9.jar) (2001.2.9) <sub>(FTB Ultimine)</sub>
-- [**Botarium**](https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar) (2.3.4)
-- [**Kotlin for Forge**](https://cdn.modrinth.com/data/ordsPcFz/versions/hmeyC41q/kotlinforforge-4.11.0-all.jar) (4.11.0)
-- [**Geckolib**](https://cdn.modrinth.com/data/8BmcQJ2H/versions/LwI6czff/geckolib-forge-1.20.1-4.7.jar) (4.7.0)
-- [**Blueprint**](https://cdn.modrinth.com/data/VsM5EDoI/versions/z4m8zvm5/blueprint-1.20.1-7.1.2.jar) (7.1.2) <sub>(Abnormal's Delight)</sub>
-- [**Citadel**](https://cdn.modrinth.com/data/jJfV67b1/versions/a7H8TGhJ/citadel-2.6.1-1.20.1.jar) (2.6.1) <sub>(Alex's Mobs)</sub>
-- [**Resourceful Lib**](https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar) (2.1.29) <sub>(Chipped)</sub>
-- [**Lithostitched**](https://cdn.modrinth.com/data/XaDC71GB/versions/4ooXso77/lithostitched-forge-1.20.1-1.4.4.jar) (1.4.4)
-- [**Architectury API**](https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar) (9.2.14)
-- [**CraterLib**](https://cdn.modrinth.com/data/Nn8Wasaq/versions/1nFU5ee8/CraterLib-Forge-1.20-2.1.3.jar) (2.1.3) <sub>(Simple Discord Link)</sub>
-- [**MonoLib**](https://cdn.modrinth.com/data/9leXt4A5/versions/UCIHOC9y/monolib-forge-1.20.1-2.0.0.jar) (2.0.0) <sub>(Disenchanting Table)</sub>
-- [**Konkrete**](https://cdn.modrinth.com/data/J81TRJWm/versions/skYziQQL/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar) (1.8.0) <sub>(JustZoom)</sub>
-- [**Cristel Lib**](https://cdn.modrinth.com/data/cl223EMc/versions/DOsSK4NK/cristellib-1.1.6-forge.jar) (1.1.6) <sub>(Terralith)</sub>
-- [**Cloth Config API**](https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar) (11.1.136)
-- [**Fzzy Config**](https://cdn.modrinth.com/data/hYykXjDp/versions/6FpN9Bn7/fzzy_config-0.6.5-fix1%2B1.20.1%2Bforge.jar) (0.6.5f) <sub>(Particle Core)</sub>
-- [**Midnight Lib**](https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar) (1.4.2) <sub>(Cull Leaves)</sub>
-- [**Athena**](https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar) (3.1.2) <sub>(Chipped)</sub>
-- [**Petrolpark's Lib**](https://cdn.modrinth.com/data/ik2WZkTZ/versions/71Mw5ZWY/petrolpark-1.20.1-1.4.1-all.jar) (1.4.1) <sub>(Destroy (Create Addon))</sub>
 
 ### QoL
 - [**Curios**](https://cdn.modrinth.com/data/vvuO3ImH/versions/aFw6K2Jy/curios-forge-5.12.1%2B1.20.1.jar) (5.12.1)
