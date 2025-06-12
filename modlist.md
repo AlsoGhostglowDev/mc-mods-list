@@ -9,13 +9,22 @@ Only happens when there's alot of mods updates going through the same day
 ## /create
 ### Information
 **Minecraft Version:** 1.20.1 <br>
-**Platform:** Forge (47.3.12) <br> 
-<sup>*Last updated at `13/3/2025 15:54 (GMT+8)`*</sup>
+**Platform:** Forge (47.4.0) <br> 
+<sup>*Last updated at `12/6/2025 4:34 (GMT+8)`*</sup>
+
+### 🟥 Mods Recently Removed (Cleanup):
+- **Destroy**
+- **Petrolpark's Lib**
+- **Create: Northstar**
+- **Applied Energistics 2**
+- **Ars Nouveau**
+- **Ars Energistique**
+- **Ars Creo**
+- **Alex's Mobs**
 
 ### Mods:
 ### Main
 - [**Create**](https://cdn.modrinth.com/data/LNytGWDc/versions/9df9xn5Z/create-1.20.1-0.5.1.i.jar) (0.5.1.i)
-  > - [**Destroy**](https://cdn.modrinth.com/data/uY7EYHum/versions/yRsxzGji/destroy-1.20.1-0.1.0-snapshot-16.jar) (0.1.0 Snapshot 16)
   > - [**Create: New Age**](https://cdn.modrinth.com/data/FTeXqI9v/versions/2BEeSV7E/create-new-age-forge-1.20.1-1.1.2.jar) (1.1.2)
   > - [**Create: Crafts & Additions**](https://cdn.modrinth.com/data/kU1G12Nn/versions/VTTLcYWM/createaddition-1.20.1-1.2.5.jar) (1.2.5)
   > - [**Create: Power Loader**](https://cdn.modrinth.com/data/wPQ6GgFE/versions/qLKpNYzC/create_power_loader-1.5.0-mc1.20.1.jar) (1.5.0)
@@ -23,16 +32,13 @@ Only happens when there's alot of mods updates going through the same day
   > - [**Create: Enchantment Industry**](https://cdn.modrinth.com/data/JWGBpFUP/versions/JFhYaP3a/create_enchantment_industry-1.20.1-for-create-0.5.1.f-1.2.9.d.jar) (1.2.9d)
   > - [**Create: Jetpack**](https://cdn.modrinth.com/data/UbFnAd4l/versions/o1ol26WC/create_jetpack-forge-4.3.2.jar) (4.3.2)
     >   - [**Create: Jetpack Curios Support**](https://cdn.modrinth.com/data/BBhCMftF/versions/MmHHKvju/create_jetpack_curios-1.2.0-forge-1.20.1.jar) (1.2.0)
-  > - [**Create: Northstar**](https://cdn.modrinth.com/data/XuHYu7cF/versions/VE7xSKd3/northstar-0.1cb-1.20.1.jar) (0.1cb)
   > - [**Create: Copycats**](https://cdn.modrinth.com/data/UT2M39wf/versions/DAn2YIli/copycats-2.2.0%2Bmc.1.20.1-forge.jar) (2.2.0)
   > - [**Create: Deco**](https://cdn.modrinth.com/data/sMvUb4Rb/versions/lcpO5tBr/createdeco-2.0.2-1.20.1-forge.jar) (2.0.2)
   > - [**Create: Connected**](https://cdn.modrinth.com/data/Vg5TIO6d/versions/1o1CPwZD/create_connected-0.9.4-mc1.20.1-all.jar) (0.9.4)
   > - [**Create: Structures**](https://cdn.modrinth.com/data/IAnP4np7/versions/XALEBs0a/create-structures-0.1.1-1.20.1-FORGE.jar) (0.1.1) <sub>(Server-side, Optional)</sub>
   > - [**Create: Cobblestone**](https://cdn.modrinth.com/data/ihpnEd80/versions/cCNm5Qq4/createcobblestone-1.4.4-beta-2%2Bforge-1.20.1-91.jar) (1.4.4b)
-- [**Applied Energetics 2**](https://cdn.modrinth.com/data/XxWD5pD3/versions/JSY0V9J5/appliedenergistics2-forge-15.3.3.jar) (15.3.3)
 - [**ComputerCraft: Tweaked**](https://cdn.modrinth.com/data/gu7yAYhd/versions/rMtScs9u/cc-tweaked-1.20.1-forge-1.115.0.jar) (1.115.0)
   > - [**Advanced Peripherals**](https://cdn.modrinth.com/data/SOw6jD6x/versions/n4Npq89k/AdvancedPeripherals-1.20.1-0.7.41r.jar) (0.7.41r)
-- [**Ars Nouveau**](https://mediafilez.forgecdn.net/files/5894/609/ars_nouveau-1.20.1-4.12.6-all.jar) (4.12.6)
 - [**Farmer's Delight**](https://cdn.modrinth.com/data/R2OftAxM/versions/NcRp00OO/FarmersDelight-1.20.1-1.2.7.jar) (1.2.7)
   > - [**Delightful**](https://cdn.modrinth.com/data/JtSnhtNJ/versions/emlcyGrq/Delightful-1.20.1-3.7.1.jar) (3.7.1)
   > - [**Delightful Sandwiches**](https://cdn.modrinth.com/data/wmyqU46J/versions/HlzAnItm/delightfulsandwich-1.20.1.jar) (1.0)
@@ -44,20 +50,18 @@ Only happens when there's alot of mods updates going through the same day
   > - [**Abnormal's Delight**](https://cdn.modrinth.com/data/ts3qjo5t/versions/3c1omiun/abnormals_delight-1.20.1-5.0.0.jar) (5.0.0)
   > - [**Miner's Delight**](https://cdn.modrinth.com/data/qMxbM4BQ/versions/loZ09szX/miners_delight-1.20.1-1.2.3.jar) (1.2.3)
   > - 🟥 [**Some Assembly Required**](https://cdn.modrinth.com/data/jZi8ogTA/versions/pAZObJ4k/some-assembly-required-1.20.1-4.2.0.jar) (4.2.0)
-- [**Alex's Mobs**](https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar) (1.22.9)
 
-### Funsies (Deco/Building/Accessories)
+### Funsies (Deco/Building/Accessories/QoL)
 - [**Decorative Blocks**](https://cdn.modrinth.com/data/t6BIRVZn/versions/nGmyeiug/decorative_blocks-forge-1.20.1-4.1.3.jar) (4.1.3)
 - [**Chipped**](https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar) (3.0.7)
 - [**Amendments**](https://cdn.modrinth.com/data/6iTJugQR/versions/luR9kOmm/amendments-1.20-1.2.19.jar) (1.2.19)
 - [**Supplementaries**](https://cdn.modrinth.com/data/fFEIiSDQ/versions/S4IygZ9g/supplementaries-1.20-3.1.18.jar) (3.1.18)
 - [**Another Furniture**](https://cdn.modrinth.com/data/ulloLmqG/versions/cmWbslFO/another_furniture-forge-1.20.1-3.0.1.jar) (3.0.1)
 - [**FramedBlocks**](https://cdn.modrinth.com/data/wbgfS34j/versions/ZqA1adIm/FramedBlocks-9.3.1.jar) (9.3.1)
+- [**Tax-Free Levels**](https://cdn.modrinth.com/data/jCBrrLTs/versions/1SZb4aej/TaxFreeLevels-1.4.8-forge-1.20.1.jar) (1.4.8)
 
 ### Compatibility / Balance / Integration / Dependency Libs
 **Compatibility / Integration**:
-- [**Ars Creo**](https://mediafilez.forgecdn.net/files/5171/755/ars_creo-1.20.1-4.1.0.jar) (4.1.0) <sub>(Ars Nouveau ⇔ Create)</sub>
-- [**Ars Énergistique**](https://cdn.modrinth.com/data/IJI3QuK8/versions/xpgyRm6m/arseng-1.2.0.jar) (1.2.0) <sub>(Ars Nouveau ⇔ Applied Energetics 2)</sub>
 - [**CC:C Bridge**](https://cdn.modrinth.com/data/fXt291FO/versions/sPKVzUaW/cccbridge-mc1.20.1-forge-1.6.3.jar) (1.6.3) <sub>(CC: Tweaked ⇔ Create)</sub>
 - [**Create: Slice & Dice**](https://cdn.modrinth.com/data/GmjmRQ0A/versions/bKH5nqMk/sliceanddice-forge-3.3.0.jar) (3.3.0) <sub>(Farmer's Delight ⇔ Create)</sub>
 - [**Create: Central Kitchen**](https://cdn.modrinth.com/data/btq68HMO/versions/MX3EE060/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar) (1.3.12) <sub>(Farmer's Delight ⇔ Create)</sub>
@@ -88,7 +92,6 @@ Only happens when there's alot of mods updates going through the same day
 - [**Fzzy Config**](https://cdn.modrinth.com/data/hYykXjDp/versions/6FpN9Bn7/fzzy_config-0.6.5-fix1%2B1.20.1%2Bforge.jar) (0.6.5f) <sub>(Particle Core)</sub>
 - [**Midnight Lib**](https://cdn.modrinth.com/data/codAaoxh/versions/UhRAdyzr/midnightlib-forge-1.4.2.jar) (1.4.2) <sub>(Cull Leaves)</sub>
 - [**Athena**](https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar) (3.1.2) <sub>(Chipped)</sub>
-- [**Petrolpark's Lib**](https://cdn.modrinth.com/data/ik2WZkTZ/versions/71Mw5ZWY/petrolpark-1.20.1-1.4.1-all.jar) (1.4.1) <sub>(Destroy (Create Addon))</sub>
 
 ---
 
