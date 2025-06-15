@@ -52,7 +52,7 @@ mods.extendedcrafting.TableCrafting.addShaped(creative_exchanger, [
   [null, null, null, null,  null,  null, null, drac, rctc]
 ]);
 
-mods.extendedcrafting.TableCrafting.addShaped(upgrade_creative_storage, [
+mods.extendedcrafting.TableCrafting.addShaped(upgrade_creative_storage * 4, [
   [neui, neui, upg5, infi,  infb,  infi, upg5, neui, neui],
   [neui, upg5, infc, drwc,  neui,  drwc, infc, upg5, neui],
   [upg5, drwc, drac, upg5,  infi,  upg5, drac, drwc, upg5],
@@ -64,7 +64,7 @@ mods.extendedcrafting.TableCrafting.addShaped(upgrade_creative_storage, [
   [neui, neui, upg5, infi,  infb,  infi, upg5, neui, neui]
 ]);
 
-mods.extendedcrafting.TableCrafting.addShaped(upgrade_creative_vending, [
+mods.extendedcrafting.TableCrafting.addShaped(upgrade_creative_vending * 2, [
   [infb, infi, upg5, upg5,        infb,        upg5, upg5, infi, infb],
   [infi, chsS, drac, drwc,        infi,        drwc, drac, chsS, infi],
   [upg5, drwc, chsS, drac, creative_exchanger, drac, chsS, drwc, upg5],
